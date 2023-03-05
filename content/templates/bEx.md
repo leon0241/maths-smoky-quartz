@@ -1,1 +1,0 @@
-> [!Example]+ Ex: [[{{title}}|]]

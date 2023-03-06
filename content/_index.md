@@ -11,7 +11,7 @@ title: FPM Front Page
 ###### Week 1
 
 * Symmetries (WIP)
-* [Groups](Mathematics\Groups.md)
+* [Groups](Mathematics/Groups.md)
 
 ###### Week 2
 

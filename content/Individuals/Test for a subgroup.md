@@ -17,3 +17,5 @@
  > * $\widetilde{S2}$: If $h,k\in H$ then $h\*k^{-1}\in H$
 
 ^32f826
+
+%%eof%%

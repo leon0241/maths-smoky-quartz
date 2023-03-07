@@ -10,3 +10,5 @@
  > If $f$ is continuous at each $a\in S \subseteq \dom{(f)}$ and then we say that $f$ is continuous on $S$. If $f$ is continuous on $\dom{(f)}$ then we say that $f$ is continuous
 
 ^cd039a
+
+%%eof%%

@@ -25,3 +25,6 @@
  > * $P(D|H)$ - Likelihood: how likely would a given hypothesis result in this data
  > * $P(H)$ - [Prior Belief](../Individuals/Prior%20Belief.md): what you believe about hypotheses before seeing data
  > * $P(D)$ - Evidence: how likely is this data in general
+
+%%eof%%
+%%eof%%

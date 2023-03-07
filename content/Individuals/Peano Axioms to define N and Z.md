@@ -20,3 +20,5 @@ We can then define $\Z$ as a set that contains $\N_0$ and has the following prop
  > * **Z2:** If $A\subset\Z$ and $s(n)\in A$ iff $n\in A$, then $A = Z$
 
 ^2442a6
+
+%%eof%%

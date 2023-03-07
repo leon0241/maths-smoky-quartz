@@ -1,5 +1,4 @@
 **Tags:** #Main #Algebra/Categories #Course/Category_Theory 
-###### [[Category]]
 
 ![[Definition of a Category#^824748]]
 

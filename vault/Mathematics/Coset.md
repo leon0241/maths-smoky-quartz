@@ -1,4 +1,5 @@
 **Tags:** #Algebra/Groups #Main #Course/FPM 
+
 ![[Partition#^239899]]
 
 When we want to partition an set like shown above, we use an equivalence relation:

@@ -3,7 +3,7 @@ import re
 
 REGEX_LINK_SEARCH = "(?!\[[^\]]*\])\(.+?(?:md)"
 REGEX_TAG_SEARCH = "\*{2}Tags:\*{2}"
-REGEX_LINKER_SEARCH = "'\^.{6}\\n'"
+REGEX_LINKER_SEARCH = "\^.{6}\\n"
 
 # Recursively search each folder for markdown files
 def recursive_search(root):
@@ -24,37 +24,48 @@ def edit_fields(filename):
   with open(filename, 'r+') as f:
     text = f.readlines()
 
+    initial_tag_passed = False
     delete_within = False
+    frontmatter_tag_storage = ""
 
     for i, line in enumerate(text):
 
       tag_search = re.search(REGEX_TAG_SEARCH, line)
-      if (tag_search != None and delete_within == True):
+
+      # If regex finds a tag, and it's the first set of tags
+      if (tag_search != None and initial_tag_passed == False):
+        initial_tag_passed = True
+        frontmatter_tag_storage = tag_search.group()
+      # If regex finds a tag, and it's a separate set then it's the start of
+      # a new page embed
+      elif (tag_search != None):
         delete_within = False
         text[i] = ""
-        break
+        continue
 
       if (delete_within == True):
         text[i] = ""
-        break
+        continue
 
 
       link_search = re.search(REGEX_LINKER_SEARCH, line)
       if (link_search != None):
+        print("found a link")
         delete_within = True
         text[i] = ""
-        break
+        continue
 
       backlink_search = re.search(REGEX_LINK_SEARCH, line)
       if (backlink_search != None):
         post_string = backlink_search.group().replace("\\", "/")
         text[i] = re.sub(REGEX_LINK_SEARCH, post_string, line)
 
+    text = list(filter(None, text))
     print(text)
     # f.seek(0)
     # f.writelines(text)
     # f.truncate()
 
-edit_fields("Content/Mathematics/Proving a Series is convergent.md")
+edit_fields("Content/Individuals/Applications of Lagrange.md")
 
 # recursive_search("content")

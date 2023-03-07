@@ -5,7 +5,7 @@
 
  > 
  > \[!Theorem\]+ Thm: [Cauchy's Condensation Test](Cauchy's%20Condensation%20Test.md)
- > Let $(a_n)/_{n/in/N}$ be a [decreasing sequence](Monotone%20Sequences.md)  with non-negative terms. Then the following are equivalent:
+ > Let $(a_n)\_{n\in\N}$ be a [decreasing sequence](Monotone%20Sequences.md)  with non-negative terms. Then the following are equivalent:
  > 
  > 1. The series $\dsumoinf a_n$ converges 
  > 1. The series $\dsumzinf 2^na\_{2^n}$ converges.
@@ -54,7 +54,9 @@ Using these two conclusions,
  > 
  > * Assume that $p > 0$. Then, $\dfrac{1}{n^p}$ is decreasing. By Cauchy's Condensation Test, the series $\dsumoinf \dfrac{1}{n^p}$ converges iff the series $\dsumzinf 2^n\dfrac{1}{(2^n)^p}$ converges. Observe that
  >   $$2^n\dfrac{1}{(2^n)^p} = 2^{-np+n} = 2^{-(p-1)n} = \Big( \dfrac{1}{2^{p-1}}\Big)^n$$
- >   The geometric series $\dsumzinf \bigg(/dfrac{1}{2^{p-1}}/bigg)^n$ converges iff $/dfrac{1}{2^{p-1}} /< 1$ ([geometric series test](Geometric%20Series%20Test.md#691af3)), which is equivalent to $p>1$.
+ >   The geometric series $\dsumzinf \bigg(\dfrac{1}{2^{p-1}}\bigg)^n$ converges iff $\dfrac{1}{2^{p-1}} \< 1$ ([geometric series test](Geometric%20Series%20Test.md#691af3)), which is equivalent to $p>1$.
  > * If $p\le0$, then $\dfrac{1}{n^p} = n^{-p} \not\to 0$, therefore the series $\dsumoinf \dfrac{1}{n^p}$ diverges.
 
 ^fd4b54
+
+%%eof%%

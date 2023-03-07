@@ -3,12 +3,10 @@
 
 **Tags:** #Main #Algebra/Groups #Course/FPM 
 
-###### [Groups](Groups.md)
-
 **Tags:** #Algebra/Groups #Definition #Course/FPM 
 
  > 
- > \[!Theorem\]+ Thm: [Defining a Group](../Individuals/Defining%20a%20Group.md)
+ > \[!Theorem\]+ Thm: [Defining a Group](..\Individuals\Defining%20a%20Group.md)
  > 
  > For any operation $\ast$, We say a non-empty set G is a *group* under $\ast$, or more formally that (G, $\ast$) is a group, if the following four axioms hold:
  > 
@@ -22,7 +20,7 @@
 **Tags:** #Algebra/Groups #Definition #Course/FPM 
 
  > 
- > \[!Definition\]+ Def: [Abelian Group](../Individuals/Abelian%20Group.md)
+ > \[!Definition\]+ Def: [Abelian Group](..\Individuals\Abelian%20Group.md)
  > 
  > The definition of a group doesn't require that $a\ast b = b\ast a$.
  > We say that a group is *abelian* or *commutative* if $a\ast b = b\ast a$ for every $a,b\in G$. If $a,b\in G$ are sucsh that $a\ast b = b\ast a$ we say that $a$ *commutes* with $b$ or that $a$ and $b$ *commute*
@@ -32,10 +30,12 @@
 **Tags:** #Definition #Algebra/Groups #Course/FPM 
 
  > 
- > \[!Definition\]+ Def: [Elements of a group](../Individuals/Elements%20of%20a%20group.md)
+ > \[!Definition\]+ Def: [Elements of a group](..\Individuals\Elements%20of%20a%20group.md)
  > 
  > If $G$ is a finite group, the number of elements in $G$ is written $\lvert G \rvert$ and is called the *order* of $G$. If $G$ is infinite we say that $\lvert G \rvert = \infty$, or the order of $G$ is infinite.
 
 ^699943
 
-#### [Examples of a group](../Individuals/Examples%20of%20a%20group.md)
+#### [Examples of a group](..\Individuals\Examples%20of%20a%20group.md)
+
+%%eof%%

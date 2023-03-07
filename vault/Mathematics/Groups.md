@@ -1,5 +1,4 @@
 **Tags:** #Main #Algebra/Groups #Course/FPM 
-###### [[Groups]]
 
 ![[Defining a Group#^7b096a]]
 
@@ -8,4 +7,3 @@
 ![[Elements of a group#^699943]]
 
 #### [[Examples of a group]]
-

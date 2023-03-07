@@ -21,3 +21,5 @@ If $a_n\ge 0$ for all n, and $\sqrt\[n\]{a_n} \to L \< 1$, then, for every $\eps
 $$\sqrt\[n\]{a_n} \< L + \epsilon \text{, eventually}$$
 Choose $\epsilon$ so that $L + \epsilon \< 1$. Then
 $$a_n \< (L + \epsilon)^n = r^n \text{ eventually,}$$where $r = L + \epsilon \< 1$. Therefore $\dsumzinf a_n$ converges.
+
+%%eof%%

@@ -17,3 +17,5 @@
  >   $$a\<b\hspace{20pt} \text{and}\hspace{20pt} c\<0\hspace{20pt}\text{imply}\hspace{20pt}bc\<ac$$
 
 ^8b3819
+
+%%eof%%

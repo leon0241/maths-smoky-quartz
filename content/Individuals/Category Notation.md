@@ -14,3 +14,5 @@
  > People also write $\mathcal{C}(A,B)$ as $\text{Hom}\_{\mathcal{C}}(A,B)$ or $\text{Hom}(A,B)$. Stands for homomorphism which is an early example of a category
 
 ^1e6868
+
+%%eof%%

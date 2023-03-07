@@ -16,7 +16,7 @@
 **Tags:** #Analysis/Reals #Definition #Course/FPM 
 
  > 
- > \[!Definition\]+ Def: [Field Axioms of R](../Individuals/Field%20Axioms%20of%20R.md)
+ > \[!Definition\]+ Def: [Field Axioms of R](..\Individuals\Field%20Axioms%20of%20R.md)
  > The set $\R$ is equipped with the algebraic operations $+$ and $\cdot$ (Domain $\R\times\R$, and range $\R$). We assume that the triple ($\R,+,\cdot$) is a field which means it satisfies the following for every $a, b,c\in\R$
  > 
  > * **F1 - Closure:** $a + b$ and $a \cdot b$ belong to $\R$
@@ -39,15 +39,15 @@
  > \[!Remark\]
  > Sets that don't satisfy all of these are important in other contexts.
  > 
- > * Properties F1 - F4 and F6 together mean that $(/R,+)$ is a commutative ([Abelian](../Individuals/Abelian%20Group.md)) group. 
- > * Properties F1 - F3, F5, F6 mean that ($/R/backslash{0}, /cdot$) is a commutative ([Abelian](../Individuals/Abelian%20Group.md)) group.
+ > * Properties F1 - F4 and F6 together mean that $(\R,+)$ is a commutative ([Abelian](..\Individuals\Abelian%20Group.md)) group. 
+ > * Properties F1 - F3, F5, F6 mean that ($\R\backslash{0}, \cdot$) is a commutative ([Abelian](..\Individuals\Abelian%20Group.md)) group.
 
 #### Ordering the Field of $\R$
 
 **Tags:** #Definition #Analysis/Reals #Course/FPM 
 
  > 
- > \[!Definition\]+ Def: [Order Axioms of R](../Individuals/Order%20Axioms%20of%20R.md)
+ > \[!Definition\]+ Def: [Order Axioms of R](..\Individuals\Order%20Axioms%20of%20R.md)
  > The set of real numbers is **ordered**, in other words there is a concept of "less than", and "more than". There is a relation \< on $\R$ that has the following properties:
  > 
  > * **O1 - Trichotomy Property:** Given $a,b\in\R$, one and only one of the following statements hold:
@@ -63,15 +63,15 @@
 
 #### Intermediate Knowledge
 
-* [Defining Subsets of R - N,Z,Q](../Individuals/Defining%20Subsets%20of%20R%20-%20N,Z,Q.md)
-* [Defining the Absolute Value](../Individuals/Defining%20the%20Absolute%20Value.md)
+* [Defining Subsets of R - N,Z,Q](..\Individuals\Defining%20Subsets%20of%20R%20-%20N,Z,Q.md)
+* [Defining the Absolute Value](..\Individuals\Defining%20the%20Absolute%20Value.md)
 
 #### Axiom of Completeness for $\R$
 
 **Tags:** #Main #Analysis/Reals #Course/FPM 
 
  > 
- > \[!Definition\]+ Def: [Axiom of Completeness](../Individuals/Axiom%20of%20Completeness.md)
+ > \[!Definition\]+ Def: [Axiom of Completeness](..\Individuals\Axiom%20of%20Completeness.md)
  > If $E \subset \R$ is non-empty and bounded above, then $E$ has a supremum.
 
 ^5b377d
@@ -84,7 +84,7 @@ The completeness axiom will fill in the gaps and ensure the reals include any nu
 **Tags:** #Analysis/Reals #Theorem #Course/FPM 
 
  > 
- > \[!Theorem\]+ Thm: [Bounds, Suprema and Infima](../Individuals/Bounds,%20Suprema%20and%20Infima.md)
+ > \[!Theorem\]+ Thm: [Bounds, Suprema and Infima](..\Individuals\Bounds,%20Suprema%20and%20Infima.md)
  > Let $S$ be an ordered field (like $\R$) and $A\subseteq S$ be nonempty.
  > 
  > 1. The set $A$ is *bounded above* if there exists some $b\in S$ such that $x\le b$ for all $x\in A$; in this case, $b$ is called an *upper bound* of $A$.
@@ -108,18 +108,18 @@ If we start with $\Q$, and add in all the least upper bounds from every set that
 **Tags:** #Definition #Analysis/Reals #Course/FPM 
 
  > 
- > \[!Definition\]+ Def: [Least Upper Bound Property](../Individuals/Least%20Upper%20Bound%20Property.md)
+ > \[!Definition\]+ Def: [Least Upper Bound Property](..\Individuals\Least%20Upper%20Bound%20Property.md)
  > Let $S$ be an ordered field (like $\R$). Then $S$ has the *least upper bound property* if given any nonempty $A\subseteq S$ where $A$ is bounded above, $A$ has a least upper bound in $S$. In other words, $sup(A)\in S$ for every such $A$.
  > Such a set is called *complete*
 
 ^85a6f1
 
  > 
- > \[!Remark\]+ Rem: [Uniqueness of Suprema](../Individuals/Axiom%20of%20Completeness.md)
+ > \[!Remark\]+ Rem: [Uniqueness of Suprema](..\Individuals\Axiom%20of%20Completeness.md)
  > If a set has a supremum, it only has one supremum, i.e., the supremum is unique whenever it exists.
 
  > 
- > \[!Remark\]+ Rem: [Inclusion of Natural Suprema](../Individuals/Axiom%20of%20Completeness.md)
+ > \[!Remark\]+ Rem: [Inclusion of Natural Suprema](..\Individuals\Axiom%20of%20Completeness.md)
  > If $E\subset\N$ has a supremum, then $sup(E)\in E$
 
 #### Consequences of completeness
@@ -127,7 +127,7 @@ If we start with $\Q$, and add in all the least upper bounds from every set that
 **Tags:** #Analysis/Reals  #Theorem #Course/FPM 
 
  > 
- > \[!Theorem\]+ [Archimedean Principle](../Individuals/Archimedean%20Principle.md)
+ > \[!Theorem\]+ [Archimedean Principle](..\Individuals\Archimedean%20Principle.md)
  > Given positive real numbers $a,b\in\R$ there is an integer $n\in\N$ such that $b\<na$
 
 ^7feff5
@@ -139,12 +139,12 @@ Shows that even if $a$ is quite small, and $b$ is quite large then some integer 
 #### Proof
 
 If $b\<a$ then we set $n=1$ and it is trivially true.
-Otherwise, denote the set $E$ as the set ${ k\in\mathbb{N}: ka\le b }$. $E$ is nonempty since $1\in E$. $E$ is also bounded because $ka\le b \iff k\le \frac{b}{a}$, therefore $\frac{b}{a}$ is an upper bound of $E$. Then, by the completeness axiom $s = sup(E)$ exists. Also from [Inclusion of Natural Suprema](../Individuals/Axiom%20of%20Completeness.md#inclusion-of-natural-suprema), since $E\in\N$, then $s\in E$. Set $n=s +1$ and therefore $n\in\N$ and $na>b$ so the claim holds.
+Otherwise, denote the set $E$ as the set ${ k\in\mathbb{N}: ka\le b }$. $E$ is nonempty since $1\in E$. $E$ is also bounded because $ka\le b \iff k\le \frac{b}{a}$, therefore $\frac{b}{a}$ is an upper bound of $E$. Then, by the completeness axiom $s = sup(E)$ exists. Also from [Inclusion of Natural Suprema](..\Individuals\Axiom%20of%20Completeness.md#inclusion-of-natural-suprema), since $E\in\N$, then $s\in E$. Set $n=s +1$ and therefore $n\in\N$ and $na>b$ so the claim holds.
 
 **Tags:** #Analysis/Reals #Theorem #Course/FPM 
 
  > 
- > \[!Theorem\]+ Thm: [Density of the Rational Numbers](../Individuals/Density%20of%20the%20Rational%20Numbers.md)
+ > \[!Theorem\]+ Thm: [Density of the Rational Numbers](..\Individuals\Density%20of%20the%20Rational%20Numbers.md)
  > Let $a\<b$ be real numbers. Then there exists a $q\in\Q$ such that $a \< q \< b$.
 
 ^800178
@@ -152,7 +152,7 @@ Otherwise, denote the set $E$ as the set ${ k\in\mathbb{N}: ka\le b }$. $E$ is n
 **Tags:** #Definition #Analysis/Reals #Course/FPM 
 
  > 
- > \[!Definition\]+ Def: [Least Upper Bound Property](../Individuals/Least%20Upper%20Bound%20Property.md)
+ > \[!Definition\]+ Def: [Least Upper Bound Property](..\Individuals\Least%20Upper%20Bound%20Property.md)
  > Let $S$ be an ordered field (like $\R$). Then $S$ has the *least upper bound property* if given any nonempty $A\subseteq S$ where $A$ is bounded above, $A$ has a least upper bound in $S$. In other words, $sup(A)\in S$ for every such $A$.
  > Such a set is called *complete*
 
@@ -163,7 +163,9 @@ Otherwise, denote the set $E$ as the set ${ k\in\mathbb{N}: ka\le b }$. $E$ is n
 **Tags:** #Theorem #Analysis/Reals #Course/FPM 
 
  > 
- > \[!Theorem\]+ Thm: [Existence and Uniqueness of R](../Individuals/Existence%20and%20Uniqueness%20of%20R.md)
+ > \[!Theorem\]+ Thm: [Existence and Uniqueness of R](..\Individuals\Existence%20and%20Uniqueness%20of%20R.md)
  > There exists a unique complete ordered field. We call this field *the real numbers*, $\R$.
 
 ^4113f2
+
+%%eof%%

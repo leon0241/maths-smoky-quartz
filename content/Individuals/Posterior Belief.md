@@ -6,3 +6,5 @@
  > 
  > \[!Definition\]+ Def: [Posterior Belief](Posterior%20Belief.md)
  > the chance of a given hypothesis being true after seeing some evidence
+
+%%eof%%

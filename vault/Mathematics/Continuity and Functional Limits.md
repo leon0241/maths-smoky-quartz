@@ -1,5 +1,5 @@
 **Tags:** #Main #Analysis/Proofs #Course/FPM 
-###### [[Continuity and Functional Limits]]
+
 ![[Continuity#^cd039a]]
 
 ![[Showing a function is continuous#^10a4ec]]

@@ -8,7 +8,7 @@
  > 
  > 1. Choose nodes $x\_{0}=-1, x\_{1}=1$
  > 1. With 2 nodes, the *interpolating polynomial* has degree 1
- > 1. We therefore need the [quadrature rule](Quadrature%20Rules.md) to integrate degree-1 polynomials exactly i.e. to have [degree of precision](Quadrature%20Rules.md) of at least 1
+ > 1. We therefore need the [quadrature rule](Quadrature%20Rules.md) to integrate degree-1 polynomials exactly i.e. to have [degree of precision](Degree%20of%20Precision.md) of at least 1
  > 1. Use elementary polynomials of degree 0 and 1 to find the weights
 
 $$\int\_{-1}^{1}f(x)  , dx \approx \displaystyle\sum\_{k=0}^{N-1} W\_{k}f(x\_{k)}$$
@@ -19,4 +19,6 @@ $$\int\_{-1}^{1} 1 , dx =\displaystyle\sum\_{k=0}^{1} W\_{k} p(x\_{k}) \implies 
 $p(x)=x$ (degree 1)
 $$\int\_{-1}^{1} x , dx =w\_{0}p(-1)+w\_{1}p(1)\implies 0=-wp\_{0}+w\_{1}$$
 $$\implies w\_{0}=w\_{1}=1 \text{ is the weights for trapezoid rule}$$
-$\implies$for arbitrary f(x), $\displaystyle\int\_{-1}^{1} f(x) , dx \approxPrreras f(-1)+f(1)$
+$\implies$for arbitrary f(x), $\displaystyle\int\_{-1}^{1} f(x) , dx \approx f(-1)+f(1)$
+
+%%eof%%

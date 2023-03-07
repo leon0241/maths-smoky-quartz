@@ -16,3 +16,5 @@
  > * ${hg,hg^{2},\dots hg^{n-1}}$, the set of reflected rotations
 
 ^2be415
+
+%%eof%%

@@ -11,3 +11,5 @@
  > 1. the sequence $(S_n)\_{n\in\N}$ of partial sums is bounded above.
 
 ^03396c
+
+%%eof%%

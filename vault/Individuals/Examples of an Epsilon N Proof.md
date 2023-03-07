@@ -1,5 +1,5 @@
 **Tags:** #Analysis/Proofs #Collection #Course/FPM 
-###### [[Examples of an Epsilon N Proof]]
+
 > [!Example]+ Ex: [[Examples of an Epsilon N Proof|Showing 1/n converges to 0]]
 > Show that $\frac{1}{n}\to 0$ as $n\to\infty$
 > Pick any $\epsilon<0$. From the [[Archimedean Principle]] it follows that there exists $N\in\N$ such that $N>\frac{1}{\epsilon}$ or $\frac{1}{N} < \epsilon$. It follows that if $N\ge N$ then

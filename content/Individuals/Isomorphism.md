@@ -16,3 +16,5 @@
  > In this situation, we call $g$ the \*inverse of $f$ and write $g=f^{-1}$. If there exists an isomorphism from $A$ to $B$, we say that $A$ and $B$ are *isomorphic* and write $A\iso B$.
 
 ^6beee5
+
+%%eof%%

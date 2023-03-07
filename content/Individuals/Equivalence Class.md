@@ -11,3 +11,5 @@
  > $$cl(x) :={\text{all elements that are related to } x}={s\in X , | , x \sim s}$$
 
 ^6dbdfd
+
+%%eof%%

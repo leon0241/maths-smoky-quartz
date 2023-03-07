@@ -19,3 +19,5 @@ Observe:
 $$a_n = S_n - S\_{n-1}, n \ge2,$$
 therefore
 $$a_n \to S - S = 0$$
+
+%%eof%%

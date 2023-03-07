@@ -48,3 +48,5 @@ We can then define $\Z$ as a set that contains $\N_0$ and has the following prop
  > Then for every integer $n\in\N_0$ the proposition $P(n)$ is true.
 
 ^d0cf32
+
+%%eof%%

@@ -3,8 +3,6 @@
 
 **Tags:** #Analysis/Proofs #Collection #Course/FPM 
 
-###### [Examples of an Epsilon N Proof](Examples%20of%20an%20Epsilon%20N%20Proof.md)
-
  > 
  > \[!Example\]+ Ex: [Showing 1/n converges to 0](Examples%20of%20an%20Epsilon%20N%20Proof.md)
  > Show that $\frac{1}{n}\to 0$ as $n\to\infty$
@@ -31,3 +29,5 @@
  > Since $9n+6>9n$, if the left fraction is bounded by the right fraction, and the right fraction is still always smaller than $\epsilon$, then it follows that the left is also smaller than $\epsilon$.
  > Therefore, let $\epsilon>0$. Pick a positive integer $N$ such that $N>\frac{11}{9\epsilon}$. Then $\frac{11}{9N} \< \epsilon$. For all $n$ with $n\ge N$, we have
  > $$\lvert a\_{n}-L \rvert = \left\lvert  \frac{2n+5}{3n+2} - \frac{2}{3}  \right\rvert =\frac{11}{9n+6} \le \frac{11}{9n} \le \frac{11}{9N}\<\\epsilon$$
+
+%%eof%%

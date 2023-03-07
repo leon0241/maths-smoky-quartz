@@ -12,3 +12,5 @@
  > * **T. (Transitive):** $x\sim y$ and $y\sim z$ implies that $x\sim z$ for all $x,y,z\in X$
 
 ^853398
+
+%%eof%%

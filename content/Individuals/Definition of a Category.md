@@ -21,3 +21,5 @@
  >   * **Identity** for each $f\in \mathcal{C}(A,B)$ we have $f\circ 1\_{A} = f = 1\_{B} \circ f$
 
 ^824748
+
+%%eof%%

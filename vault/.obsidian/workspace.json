@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Proving a Series is Convergent.md",
+                "file": "Mathematics/Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Proving a Series is Convergent.md",
+                "file": "Mathematics/Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Proving a Series is Convergent.md",
+                "file": "Mathematics/Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Proving a Series is Convergent.md"
+                "file": "Mathematics/Groups.md"
               }
             }
           },
@@ -137,13 +137,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,34 +156,34 @@
   },
   "active": "112b164da6ef2b67",
   "lastOpenFiles": [
-    "Mathematics/Coset.md",
     "Mathematics/Defining the Real Numbers.md",
-    "Individuals/Defining Subsets of R - N,Z,Q.md",
-    "Individuals/Trapezoid Rule.md",
-    "Individuals/Quadrature Rules.md",
-    "Visual diagram of sets.md",
-    "Mathematics/Groups.md",
-    "Individuals/Elements of a group.md",
-    "Individuals/Abelian Group.md",
-    "Individuals/Defining a Group.md",
-    "Mathematics/Proving a Series is Convergent.md",
-    "Mathematics/Proving a Sequence is Convergent.md",
-    "Mathematics/Random.md",
-    "Mathematics/Rings.md",
-    "notes/CJK + Latex Support (测试).md",
-    "private/private-note.md",
-    "templates/bLem.md",
-    "e/Category 1.md",
-    "e/Definition of a Category 1.md",
-    "Sample/Definition of a Category 1.md",
-    "Sample/Category 1.md",
-    "e/New Category 1.md",
+    "Individuals/Order Axioms of R.md",
+    "Mathematics/Coset.md",
     "Mathematics/Category.md",
-    "e/new category.md",
+    "Mathematics/Continuity and Functional Limits.md",
+    "Individuals/Homomorphism.md",
+    "Individuals/Integral Test.md",
+    "Individuals/Intermediate Value Theorem.md",
+    "private/Test.md",
+    "private/Symmetries.md",
+    "Mathematics/Subgroups.md",
+    "Mathematics/Rings.md",
+    "Mathematics/Rings 1.md",
+    "Mathematics/Random.md",
+    "Mathematics/Proving a Sequence is Convergent.md",
+    "Mathematics/Proving a Series is Convergent.md",
+    "Mathematics/Lagrange's Theorem.md",
+    "Mathematics/Infinite Series.md",
+    "Mathematics/Groups.md",
+    "Individuals/Trapezoid Rule.md",
+    "Individuals/Test for a subgroup.md",
+    "Individuals/Symmetry.md",
+    "Individuals/Subgroup notation.md",
+    "Individuals/Ring rng notation.md",
+    "Individuals/Root Test.md",
+    "Individuals/Size of a Subgroup Theorem.md",
     "e",
     "New folder",
-    "Individuals/Category Notation.md",
-    "Individuals/Definition of a Category.md",
     "Sample",
     "old_index.txt",
     "notes/images/obsidian-settings.png",

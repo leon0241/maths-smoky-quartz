@@ -125,3 +125,5 @@
  > \\end{align}
  > $$
  > and we can choose $\delta=\min{{1, \epsilon/5}}$. A formal proof can then be written like the examples above.
+
+%%eof%%

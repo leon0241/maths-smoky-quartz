@@ -14,3 +14,5 @@
 * If $\lvert G \rvert = 1$, then $G$ is abelian
 * If $\lvert G \rvert =$ $2$, $3$, or $5$, then $G$ is cyclic by the [Prime size group theorem](Prime%20size%20group%20theorem.md)
 * The only other case is $\lvert G \rvert = 4$. 
+
+%%eof%%

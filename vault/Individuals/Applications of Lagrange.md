@@ -1,5 +1,4 @@
 **Tags:**  #Algebra/Groups #Collection #Course/FPM  
-###### [[Applications of Lagrange]]
 
 ![[Prime size group theorem#^19c56f]]
 

@@ -16,3 +16,5 @@ called *composition*
 > 	- **Identity** for each $f\in \mathcal{C}(A,B)$ we have $f\circ 1_{A} = f = 1_{B} \circ f$
 
 ^824748
+
+%%EOF%%

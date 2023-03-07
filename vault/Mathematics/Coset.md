@@ -32,3 +32,4 @@ eH = e * H = \{e * h\,|\,h\in H\} = \{0+h\,|\, h\in H\} = \{0,2\} \\
 ![[Coset Rules#^e0f9d3]]
 
 ###### [[Lagrange's Theorem]]
+%%EOF%%

@@ -13,14 +13,3 @@
  >   * If $a_n = \dfrac{1}{n}$, then $\dfrac{a\_{n+1}}{a_n} = \dfrac{n}{n + 1} \to 1$, and $\dsumzinf \frac{1}{n}$ diverges.>
  >   * If $a_n = \dfrac{1}{n^2}$, then $\dfrac{a\_{n+1}}{a_n} = \dfrac{n^2}{(n + 1)^2} \to 1$, and $\dsumzinf \frac{1}{n^2}$ converges.
 
-^f43231
-
-###### Logic
-
-If $a_n > 0$ for all n, and $\dfrac{a\_{n+1}}{a_n} \to L \< 1$, then, for every $\epsilon$,
-$$\frac{a\_{n+1}}{a_n} \< L + \epsilon \text{, eventually.}$$
-Choose $\epsilon$ so that $L + \epsilon \in (0, 1)$, and take $N \in\N$ sufficiently large. Then
-$$a_n = \frac{a_n}{a\_{n-1}}\frac{a\_{n-1}}{a\_{n-2}}\cdots\frac{a\_{N+1}}{a_N} a_n \le (L + \epsilon)^{n - N} a_N = Cr^n$$
-where $r = L + \epsilon\in(0,1)$, $C = (L + \epsilon)^{-N}a_N$. Therefore $\dsumzinf a_n$ converges.
-
-%%eof%%

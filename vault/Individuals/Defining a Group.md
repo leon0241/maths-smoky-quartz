@@ -9,3 +9,5 @@
 > - **G4 - Existence of inverses:** Every element $g\in G$ has an *inverse* $g^{-1}$ such that $g\ast g^{-1}=g^{-1}\ast g = e$
 
 ^7b096a
+
+%%EOF%%

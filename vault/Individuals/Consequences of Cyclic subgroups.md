@@ -14,3 +14,5 @@
 > [!Theorem]+
 > Let $m,n\in \N$, let $G=\langle g \rangle$ be a [[Cyclic Subgroups|cyclic group]] of [[Order of a Group#Order of a Group|order]] $m$ and $H=\langle h \rangle$ be a cyclic group of order $n$. Then
 > $$G \times H \text{ is cyclic} \iff m \text{ and } n \text{ are coprime (i.e. gcd(m,n) = 1)}$$
+
+%%EOF%%

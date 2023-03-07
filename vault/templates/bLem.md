@@ -1,1 +1,2 @@
 > [!Lemma]+ Lem: [[{{title}}|]]
+%%EOF%%

@@ -30,4 +30,3 @@
  > Therefore, let $\epsilon>0$. Pick a positive integer $N$ such that $N>\frac{11}{9\epsilon}$. Then $\frac{11}{9N} \< \epsilon$. For all $n$ with $n\ge N$, we have
  > $$\lvert a\_{n}-L \rvert = \left\lvert  \frac{2n+5}{3n+2} - \frac{2}{3}  \right\rvert =\frac{11}{9n+6} \le \frac{11}{9n} \le \frac{11}{9N}\<\\epsilon$$
 
-%%eof%%

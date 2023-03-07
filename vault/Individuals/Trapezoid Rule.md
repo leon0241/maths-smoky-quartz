@@ -15,3 +15,5 @@ $p(x)=1$ (degree 0)
 	$$\int_{-1}^{1} x \, dx =w_{0}p(-1)+w_{1}p(1)\implies 0=-wp_{0}+w_{1}$$
 	$$\implies w_{0}=w_{1}=1 \text{ is the weights for trapezoid rule}$$
 $\implies$for arbitrary f(x), $\displaystyle\int_{-1}^{1} f(x) \, dx \approx f(-1)+f(1)$
+
+%%EOF%%

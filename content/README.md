@@ -5,4 +5,3 @@
 
 obsidian more like obsolete
 
-%%eof%%

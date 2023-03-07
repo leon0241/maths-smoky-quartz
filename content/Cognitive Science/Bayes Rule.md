@@ -2,13 +2,11 @@
 ---
 
 **Tags:** #CogSci/WordProcessing #Main #Course/CogSci
-**Tags:** #CogSci/WordProcessing #Definition #CogSci 
 
  > 
  > \[!Definition\]+ Def: [Prior Belief](../Individuals/Prior%20Belief.md)
  > The chance of a given hypothesis to be true when you are given no data
 
-**Tags:** #CogSci/WordProcessing #Definition #Course/CogSci 
 
  > 
  > \[!Definition\]+ Def: [Posterior Belief](../Individuals/Posterior%20Belief.md)

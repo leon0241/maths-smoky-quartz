@@ -1,1 +1,2 @@
 > [!Example]+ Ex: [[{{title}}|]]
+%%EOF%%

@@ -17,7 +17,10 @@ def recursive_search(root):
 def append_eof(filename):
   with open(filename, 'r+') as f:
     text = f.readlines()
-    if (text[-1] == "%%EOF%%"):
+    if (text == []):
+      return
+
+    if (text[-1] != "%%EOF%%"):
       f.write("\n%%EOF%%")
 
 recursive_search("vault")

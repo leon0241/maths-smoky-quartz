@@ -20,4 +20,3 @@
 
 ###### [Proving a Series is Convergent](Proving%20a%20Series%20is%20Convergent.md)
 
-%%eof%%

@@ -1,1 +1,2 @@
 > [!Notation]+ Ntn: [[{{title}}|]]
+%%EOF%%

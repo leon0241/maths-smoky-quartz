@@ -2,3 +2,4 @@
 
 > [!Definition]+ Def: [[{{title}}]]
 > 
+%%EOF%%

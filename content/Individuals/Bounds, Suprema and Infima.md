@@ -13,6 +13,3 @@
  > 1. The greatest lower bound\* of A - if it exists - is some $b\_{0}\in S$ such that (1) $b\_{0}$ is an lower bound of $A$, and (2) if $b$ is any other lower bound of $A$, then $b\_{0}\ge b$. Such a $b\_{0}$ is also called the *inimum* of $A$ and is denoted by $inf(A)$.
  > 1. If a set is both bounded above and bounded below, then it is simply called *bounded*.
 
-^35189a
-
-%%eof%%

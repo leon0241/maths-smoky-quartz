@@ -11,6 +11,3 @@
  > $$\langle g \rangle = {e,\mathbf{g}\dots,g^{o(g)-1}}$$
  > by [order of a finite group](Order%20of%20a%20finite%20group.md#291b9b)
 
-^b27ec4
-
-%%eof%%

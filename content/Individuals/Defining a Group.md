@@ -13,6 +13,3 @@
  > * **G3 - Existence of identity:** There exists an *identity element* or *neutral element* of $G$ such that $e\ast g = g\ast e = e$ for all $g\in G$. 
  > * **G4 - Existence of inverses:** Every element $g\in G$ has an *inverse* $g^{-1}$ such that $g\ast g^{-1}=g^{-1}\ast g = e$
 
-^7b096a
-
-%%eof%%

@@ -19,15 +19,3 @@
  >   * $(b+c)\cdot a=(b\cdot a) + (c\cdot a)$ 
  >   * (this is the only law connecting addition with multiplication)
 
-^eefa7b
-
-#### Other Information
-
- > 
- > \[!Remark\]
- > Sets that don't satisfy all of these are important in other contexts.
- > 
- > * Properties F1 - F4 and F6 together mean that $(\R,+)$ is a commutative ([Abelian](Abelian%20Group.md)) group. 
- > * Properties F1 - F3, F5, F6 mean that ($\R\backslash{0}, \cdot$) is a commutative ([Abelian](Abelian%20Group.md)) group.
-
-%%eof%%

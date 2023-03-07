@@ -12,6 +12,3 @@
  > * $aH=H$ if and only if $a\in H$
  > * if $a\in bH$ then $aH=bH$
 
-^e57a1f
-
-%%eof%%

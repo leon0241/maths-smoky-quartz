@@ -13,6 +13,3 @@
  > $$
  > Notice that $a$ is always the first term in the series, and $r$ is the *common ratio*
 
-^691af3
-
-%%eof%%

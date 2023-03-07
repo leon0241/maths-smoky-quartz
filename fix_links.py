@@ -4,6 +4,7 @@ import re
 REGEX_LINK_SEARCH = "(?!\[[^\]]*\])\(.+?(?:md)"
 REGEX_TAG_SEARCH = "\*{2}Tags:\*{2}"
 REGEX_LINKER_SEARCH = "\^.{6}\\n"
+REGEX_EOF_SEARCH = "%%EOF%%"
 
 # Recursively search each folder for markdown files
 def recursive_search(root):
@@ -39,8 +40,13 @@ def edit_fields(filename):
       # If regex finds a tag, and it's a separate set then it's the start of
       # a new page embed
       elif (tag_search != None):
-        delete_within = False
         text[i] = ""
+        continue
+
+      eof_search = re.search(REGEX_EOF_SEARCH, line)
+      if (eof_search != None):
+        text[i] = ""
+        delete_within = False
         continue
 
       if (delete_within == True):
@@ -50,7 +56,6 @@ def edit_fields(filename):
 
       link_search = re.search(REGEX_LINKER_SEARCH, line)
       if (link_search != None):
-        print("found a link")
         delete_within = True
         text[i] = ""
         continue
@@ -61,11 +66,11 @@ def edit_fields(filename):
         text[i] = re.sub(REGEX_LINK_SEARCH, post_string, line)
 
     text = list(filter(None, text))
-    print(text)
-    # f.seek(0)
-    # f.writelines(text)
-    # f.truncate()
+    # print(text)
+    f.seek(0)
+    f.writelines(text)
+    f.truncate()
 
 edit_fields("Content/Individuals/Applications of Lagrange.md")
 
-# recursive_search("content")
+recursive_search("content")

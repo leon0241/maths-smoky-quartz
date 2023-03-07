@@ -21,4 +21,3 @@
  > 1. **Symmetry:** $|a-b| = |b-a|$
  > 1. **Triangle Inequality:** $|a+b| \le |a| +|b|$ and $||a|-|b||\le |a-b|$.
 
-%%eof%%

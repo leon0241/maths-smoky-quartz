@@ -21,5 +21,3 @@
  > 
  > \[!Definition\] Def: [Bijective Function](Functions.md)
  > A function $f: X\to Y$ is called *bijective* if it is both [injective](Functions.md#functions-injective-function) and [surjective](Functions.md#functions-surjective-function)
-
-%%eof%%

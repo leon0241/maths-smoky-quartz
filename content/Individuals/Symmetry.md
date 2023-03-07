@@ -11,4 +11,3 @@
  > \[!Remark\] Rem: [Valency Preservation of symmetries](Symmetry.md)
  > A symmetry $f:V\to V$ must preserve the valency of a vertex. For example, if $v\_{1}$ has valency three, then $f(v\_{1})$ must also have valency three.
 
-%%eof%%

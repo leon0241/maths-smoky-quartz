@@ -19,6 +19,3 @@ We can then define $\Z$ as a set that contains $\N_0$ and has the following prop
  > * **Z1:** Given $n\in\Z$ then there exists $p(n)\in\Z$ such that $s(p(n))=n$
  > * **Z2:** If $A\subset\Z$ and $s(n)\in A$ iff $n\in A$, then $A = Z$
 
-^2442a6
-
-%%eof%%

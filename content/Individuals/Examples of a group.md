@@ -30,20 +30,9 @@
  > * The set $\Q$ fails under the operation $g\ast h = g\times h$. **G1** - **G3** hold, with identity element $1$, but there is no inverse element for $0$ where $0 \times 0^{-1}=1$. On the other hand, $(\Q\backslash{ 0 },\times)$ is a valid group (Rational numbers excluding $0$) since the edge case is removed, all other numbers have an inverse
  > * A similar argument can be said for $\Z$ under multiplication, but **G4** fails regardless of if $0$ is excluded or not. For example the only possible inverse of $2$ is $\frac{1}{2}$, but that is not an integer. The only elements of $(\Z\backslash{ 0 },\times )$ that have an inverse are ${1,-1}$
 
-**Tags:** #Definition #Algebra/Groups #Course/FPM 
 
  > 
  > \[!Definition\]+ Def: [Dihedral Group](Dihedral%20Group.md)
  > The dihedral group $D\_{n}$ is the group of the symmetries of a n-gon. 
- > e.g. $D\_{3}$ is the symmetries of a triangle, so it consists of $$D\_{3} = {e,,g,,g^{2},,h,,hg,,hg^{2}}$$
- > where $e$ is the identity, $g$ represents a rotation of $\frac{2\pi}{3}$, and $h$ is a reflection
- > There are exactly $2n$ elements in the group $D\_{n}$, namely
- > 
- > * $e$, the identity
- > * ${g,g^2,\dots,g^{n-1}}$, the set of $2\pi/n$ rotations
- > * $h$, a horizontal reflection
- > * ${hg,hg^{2},\dots hg^{n-1}}$, the set of reflected rotations
 
-^2be415
 
-%%eof%%

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Defining the Real Numbers.md",
+                "file": "Mathematics/Proving a Series is Convergent.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Defining the Real Numbers.md",
+                "file": "Mathematics/Proving a Series is Convergent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Defining the Real Numbers.md",
+                "file": "Mathematics/Proving a Series is Convergent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Defining the Real Numbers.md"
+                "file": "Mathematics/Proving a Series is Convergent.md"
               }
             }
           },
@@ -158,10 +158,11 @@
   },
   "active": "112b164da6ef2b67",
   "lastOpenFiles": [
+    "Mathematics/Coset.md",
+    "Mathematics/Defining the Real Numbers.md",
     "Individuals/Defining Subsets of R - N,Z,Q.md",
     "Individuals/Trapezoid Rule.md",
     "Individuals/Quadrature Rules.md",
-    "Mathematics/Coset.md",
     "Visual diagram of sets.md",
     "Mathematics/Groups.md",
     "Individuals/Elements of a group.md",
@@ -185,7 +186,6 @@
     "New folder",
     "Individuals/Category Notation.md",
     "Individuals/Definition of a Category.md",
-    "Mathematics/Defining the Real Numbers.md",
     "Sample",
     "old_index.txt",
     "notes/images/obsidian-settings.png",

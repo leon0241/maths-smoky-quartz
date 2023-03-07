@@ -19,4 +19,4 @@ $$\int\_{-1}^{1} 1 , dx =\displaystyle\sum\_{k=0}^{1} W\_{k} p(x\_{k}) \implies 
 $p(x)=x$ (degree 1)
 $$\int\_{-1}^{1} x , dx =w\_{0}p(-1)+w\_{1}p(1)\implies 0=-wp\_{0}+w\_{1}$$
 $$\implies w\_{0}=w\_{1}=1 \text{ is the weights for trapezoid rule}$$
-$\implies$for arbitrary f(x), $\displaystyle\int\_{-1}^{1} f(x) , dx \approx f(-1)+f(1)$
+$\implies$for arbitrary f(x), $\displaystyle\int\_{-1}^{1} f(x) , dx \approxPrreras f(-1)+f(1)$

@@ -5,7 +5,7 @@
 **Tags:** #Theorem #Analysis/Series #Course/FPM 
 
  > 
- > \[!Theorem\]+ Thm: [Divergence Test](..\Individuals\Divergence%20Test.md)
+ > \[!Theorem\]+ Thm: [Divergence Test](../Individuals/Divergence%20Test.md)
  > 
  > * If $(a_n)\_{n\in\N}$ converges, then $a_n\to0$.
  > * If $(a_n)\_{n\in\N}$ doesn't converge to $0$, then $\dsumoinf a_n$ diverges.
@@ -24,7 +24,7 @@ $$a_n \to S - S = 0$$
 **Tags:** #Theorem #Analysis/Series #Course/FPM
 
  > 
- > \[!Theorem\]+ Thm: [Bounded Theorem](..\Individuals\Bounded%20Theorem.md)
+ > \[!Theorem\]+ Thm: [Bounded Theorem](../Individuals/Bounded%20Theorem.md)
  > Let $(a_n)\_{n\in\N}$ be a sequence with non-negative terms. The following are equivalent:
  > 
  > 1. The series $\dsumoinf a_n$ converges.
@@ -35,7 +35,7 @@ $$a_n \to S - S = 0$$
 **Tags:** #Theorem #Analysis/Series #Course/FPM
 
  > 
- > \[!Theorem\]+ Thm: [Comparison Test](..\Individuals\Comparison%20Test.md)
+ > \[!Theorem\]+ Thm: [Comparison Test](../Individuals/Comparison%20Test.md)
  > Let $(a_n)*{n\in\N}$ and $(b_n)*{n\in\N}$ be two sequences such that $0\leq a_n\leq b_n$ for all n.
  > 
  > 1. If $\sum_n b_n$ converges, then $\sum_n a_n$ converges as well.
@@ -53,7 +53,7 @@ If $\sum_n b_n$ converges, then $b_1 + b_2 + \cdots + b_n$ is bounded, therefore
 **Tags:** #Theorem #Analysis/Series #Course/FPM
 
  > 
- > \[!Theorem\]+ Thm: [Limit Comparison Test](..\Individuals\Limit%20Comparison%20Test.md)
+ > \[!Theorem\]+ Thm: [Limit Comparison Test](../Individuals/Limit%20Comparison%20Test.md)
  > Let $(a_n)*{n\in\N}$ and $(b_n)*{n\in\N}$ be two real sequences with $a_n\geq0$ and $b_n\geq0$ for all n. Assume that $\dfrac{a_n}{b_n} \to L$ for some $L\in(0,\infty)$. Then, $\dsumoinf a_n$ converges iff $\dsumoinf b_n$ converges.
 
 ^f9d4a7
@@ -73,7 +73,7 @@ By the Comparison Test, if $\dsumoinf a_n$ converges then $\dsumoinf b_n$ conver
 **Tags:** #Theorem #Analysis/Series #Course/FPM 
 
  > 
- > \[!Theorem\]+ Thm: [Root Test](..\Individuals\Root%20Test.md)
+ > \[!Theorem\]+ Thm: [Root Test](../Individuals/Root%20Test.md)
  > Let $\dsumzinf a_n$ be a series with non-negative terms such that
  > $$\sqrt\[n\]{a_n} \to L$$
  > where $0 \le L \le +\infty$.
@@ -94,7 +94,7 @@ $$a_n \< (L + \epsilon)^n = r^n \text{ eventually,}$$where $r = L + \epsilon \< 
 **Tags:** #Theorem #Analysis/Series #Course/FPM
 
  > 
- > \[!Theorem\]+ Thm: [Ratio Test](..\Individuals\Ratio%20Test.md)
+ > \[!Theorem\]+ Thm: [Ratio Test](../Individuals/Ratio%20Test.md)
  > Let $\dsumzinf a_n$ be a series with positive terms such that $\dfrac{a\_{n+1}}{a_n} \to L$, where $0\le L \le +\infty$.
  > 
  > * If $0\le L \< 1$ then the series $\dsumzinf a_n$ converges.
@@ -116,8 +116,8 @@ where $r = L + \epsilon\in(0,1)$, $C = (L + \epsilon)^{-N}a_N$. Therefore $\dsum
 **Tags:** #Theorem #Analysis/Series #Course/FPM 
 
  > 
- > \[!Theorem\]+ Thm: [Cauchy's Condensation Test](..\Individuals\Cauchy's%20Condensation%20Test.md)
- > Let $(a_n)\_{n\in\N}$ be a [decreasing sequence](..\Individuals\Monotone%20Sequences.md)  with non-negative terms. Then the following are equivalent:
+ > \[!Theorem\]+ Thm: [Cauchy's Condensation Test](../Individuals/Cauchy's%20Condensation%20Test.md)
+ > Let $(a_n)/_{n/in/N}$ be a [decreasing sequence](../Individuals/Monotone%20Sequences.md)  with non-negative terms. Then the following are equivalent:
  > 
  > 1. The series $\dsumoinf a_n$ converges 
  > 1. The series $\dsumzinf 2^na\_{2^n}$ converges.
@@ -161,7 +161,7 @@ Using these two conclusions,
 #### Examples
 
  > 
- > \[!example\] Ex: [P-series test verification](..\Individuals\Cauchy's%20Condensation%20Test.md)
+ > \[!example\] Ex: [P-series test verification](../Individuals/Cauchy's%20Condensation%20Test.md)
  > The series $\dsumoinf \dfrac{1}{n^p}$ converges iff $p > 1$.
  > 
  > * Assume that $p > 0$. Then, $\dfrac{1}{n^p}$ is decreasing. By Cauchy's Condensation Test, the series $\dsumoinf \dfrac{1}{n^p}$ converges iff the series $\dsumzinf 2^n\dfrac{1}{(2^n)^p}$ converges. Observe that
@@ -174,7 +174,7 @@ Using these two conclusions,
 **Tags:** #Theorem #Analysis/Series #Course/FPM
 
  > 
- > \[!Theorem\]+ Thm: [Alternating Series Test](..\Individuals\Alternating%20Series%20Test.md)
+ > \[!Theorem\]+ Thm: [Alternating Series Test](../Individuals/Alternating%20Series%20Test.md)
  > Let $(b_n)\_{n\in\N}$ be a **Decreasing** sequence of non-negative real numbers that converges to zero. Then the series
  > $$\dsumoinf (-1)^{n-1}b_n$$
  > converges.
@@ -186,7 +186,7 @@ Using these two conclusions,
 **Tags:** #Theorem #Analysis/Series #Course/FPM
 
  > 
- > \[!Theorem\]+ Thm: [Integral Test](..\Individuals\Integral%20Test.md)
+ > \[!Theorem\]+ Thm: [Integral Test](../Individuals/Integral%20Test.md)
  > Suppose that $f:\[1,\infty)\to\R$ is non-negative and decreasing on $\[1,\infty)$. Let $a_k = f(k), k = 1,2,3,\dots$. Then, $\dsumoinf a_k = \dsumoinf f(k)$ converges iff the improper integral
  > $$\int^{\infty}\_1 f(x)dx \< \infty$$ 
 
@@ -195,7 +195,7 @@ Using these two conclusions,
 **Tags:** #Analysis/Series #Theorem #Course/FPM 
 
  > 
- > \[!Theorem\]+ Thm: [Monotone Convergence Theorem](..\Individuals\Monotone%20Convergence%20Theorem.md)
+ > \[!Theorem\]+ Thm: [Monotone Convergence Theorem](../Individuals/Monotone%20Convergence%20Theorem.md)
  > If a sequence of real numbers $(s\_{n})$ is increasing and bounded above, or decreasing and bounded below, then $(s\_{n})$ is convergent (and converges to the [supremum/infinum](..\Individuals\Bounds,%20Suprema%20and%20Infima.md#35189a) of the set ${x\_{n},\vert,n\in\N}$ respectively).
 
 ^f88f95
@@ -203,7 +203,7 @@ Using these two conclusions,
 **Tags:** #Analysis/Series #Theorem #Course/FPM 
 
  > 
- > \[!Theorem\]+ Thm: [Geometric Series Test](..\Individuals\Geometric%20Series%20Test.md)
+ > \[!Theorem\]+ Thm: [Geometric Series Test](../Individuals/Geometric%20Series%20Test.md)
  > Assume that $a$ and $r$ are non-zero real numbers. Then
  > $$\displaystyle\sum\_{n=1}^{\infty} a\cdot r^k = \begin{cases}
  > \\dfrac{a}{1-r} &\text{if } \lvert r \rvert \< 1 \\

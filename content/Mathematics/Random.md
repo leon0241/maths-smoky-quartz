@@ -5,4 +5,4 @@
 
 ###### [Random](Random.md)
 
-#### [Functions](..\Individuals\Functions.md) - Injective/Surjective/Bijective
+#### [Functions](../Individuals/Functions.md) - Injective/Surjective/Bijective

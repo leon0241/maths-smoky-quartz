@@ -11,7 +11,7 @@
 **Tags:** #Analysis/Proofs #Notation #Course/FPM 
 
  > 
- > \[!Notation\]+ Ntn: [Convergent Series Notation](..\Individuals\Convergent%20Series%20Notation.md)
+ > \[!Notation\]+ Ntn: [Convergent Series Notation](../Individuals/Convergent%20Series%20Notation.md)
  > The following phrases will be used interchangeably:
  > 
  > * $(x\_{n})$ converges to $a$
@@ -26,4 +26,4 @@
 
 The main method to show convergence is to start with an arbitrary $\epsilon$ and find a sufficiently large $N\in\N$. Furthermore, the constraint that $N$ is a natural number is unneccessary. From the [Archimedean Principle](..\Individuals\Archimedean%20Principle.md#7feff5), we know that for each real number $r$ we can find a natural number $N$ such that $N>r$. With this we can easily swap between the two definitions.
 
-###### [Examples of an Epsilon N Proof](..\Individuals\Examples%20of%20an%20Epsilon%20N%20Proof.md)
+###### [Examples of an Epsilon N Proof](../Individuals/Examples%20of%20an%20Epsilon%20N%20Proof.md)

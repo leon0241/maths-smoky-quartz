@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/CJK + Latex Support (测试).md",
+                "file": "Mathematics/Coset.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/CJK + Latex Support (测试).md",
+                "file": "Mathematics/Coset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/CJK + Latex Support (测试).md",
+                "file": "Mathematics/Coset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/CJK + Latex Support (测试).md"
+                "file": "Mathematics/Coset.md"
               }
             }
           },
@@ -166,6 +166,16 @@
   },
   "active": "562c8488045e060f",
   "lastOpenFiles": [
+    "Visual diagram of sets.md",
+    "Mathematics/Groups.md",
+    "Individuals/Elements of a group.md",
+    "Individuals/Abelian Group.md",
+    "Individuals/Defining a Group.md",
+    "Mathematics/Proving a Series is Convergent.md",
+    "Mathematics/Proving a Sequence is Convergent.md",
+    "Mathematics/Random.md",
+    "Mathematics/Rings.md",
+    "notes/CJK + Latex Support (测试).md",
     "private/private-note.md",
     "templates/bLem.md",
     "e/Category 1.md",
@@ -184,18 +194,8 @@
     "Individuals/Ring Axioms.md",
     "Mathematics/Coset.md",
     "Mathematics/Definition of a Category 1.md",
-    "Mathematics/Definition of a Category.md",
     "Sample",
     "old_index.txt",
-    "Individuals/Moniod.md",
-    "Individuals/2023-03-05.md",
-    "_index.md",
-    "notes/preview changes.md",
-    "notes/philosophy.md",
-    "notes/obsidian.md",
-    "notes/ignore notes.md",
-    "notes/hosting.md",
-    "notes/editing.md",
     "notes/images/obsidian-settings.png",
     "notes/images/google-domains.png",
     "notes/images/github-pages.png",

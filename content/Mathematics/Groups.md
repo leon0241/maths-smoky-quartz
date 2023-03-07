@@ -9,6 +9,7 @@
 
  > 
  > \[!Theorem\]+ Thm: [Defining a Group](..\Individuals\Defining%20a%20Group.md)
+ > 
  > For any operation $\ast$, We say a non-empty set G is a *group* under $\ast$, or more formally that (G, $\ast$) is a group, if the following four axioms hold:
  > 
  > * **G1 - Closure:** $\ast$ is a binary operation on G, that is $a\ast b \in G$ for all $a,b\in G$.
@@ -22,6 +23,7 @@
 
  > 
  > \[!Definition\]+ Def: [Abelian Group](..\Individuals\Abelian%20Group.md)
+ > 
  > The definition of a group doesn't require that $a\ast b = b\ast a$.
  > We say that a group is *abelian* or *commutative* if $a\ast b = b\ast a$ for every $a,b\in G$. If $a,b\in G$ are sucsh that $a\ast b = b\ast a$ we say that $a$ *commutes* with $b$ or that $a$ and $b$ *commute*
 
@@ -31,6 +33,7 @@
 
  > 
  > \[!Definition\]+ Def: [Elements of a group](..\Individuals\Elements%20of%20a%20group.md)
+ > 
  > If $G$ is a finite group, the number of elements in $G$ is written $\lvert G \rvert$ and is called the *order* of $G$. If $G$ is infinite we say that $\lvert G \rvert = \infty$, or the order of $G$ is infinite.
 
 ^699943

@@ -13,7 +13,7 @@
 ![[Order Axioms of R#^8b3819]]
 
 #### Intermediate Knowledge
-- [[Defining Subsets of R (N,Z,Q)]]
+- [[Defining Subsets of R - N,Z,Q]]
 - [[Defining the Absolute Value]]
 
 #### Axiom of Completeness for $\R$

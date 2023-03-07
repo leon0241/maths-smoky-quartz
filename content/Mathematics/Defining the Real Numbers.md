@@ -63,7 +63,7 @@
 
 #### Intermediate Knowledge
 
-* [Defining Subsets of R (N,Z,Q)](../Individuals/Defining%20Subsets%20of%20R%20%28N,Z,Q%29.md)
+* [Defining Subsets of R - N,Z,Q](../Individuals/Defining%20Subsets%20of%20R%20-%20N,Z,Q.md)
 * [Defining the Absolute Value](../Individuals/Defining%20the%20Absolute%20Value.md)
 
 #### Axiom of Completeness for $\R$

@@ -21,10 +21,10 @@ def edit_fields(filename):
     text = f.readlines()
 
     for i, line in enumerate(text):
-      backlink_search = re.search("(?!\[[^\]]*\])\(.+?(?:md)\)", line)
+      backlink_search = re.search("(?!\[[^\]]*\])\(.+?(?:md)", line)
       if (backlink_search != None):
         post_string = backlink_search.group().replace("\\", "/")
-        text[i] = re.sub("(?!\[[^\]]*\])\(.+?(?:md)\)", post_string, line)
+        text[i] = re.sub("(?!\[[^\]]*\])\(.+?(?:md)", post_string, line)
 
     f.seek(0)
     f.writelines(text)
@@ -32,5 +32,3 @@ def edit_fields(filename):
 
 
 recursive_search("content")
-
-# edit_fields("Content/Individuals/Quadrature Rules.md")

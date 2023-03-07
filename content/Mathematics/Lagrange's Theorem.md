@@ -6,7 +6,7 @@
  > 
  > \[!Theorem\]+ Thm: [Lagrange's Theorem](Lagrange's%20Theorem.md)
  > Let $G$ be a *finite group* and let $H$ be a *subgroup* of $G$. Then $\lvert H \rvert$ divides $\lvert G \rvert$
- > Another way of thinking of this is to say that the [order](../Individuals/Order%20of%20a%20Group.md#order-of-a-group) of $H$ is a factor of the order of $G$. More precisely, $/lvert G /rvert = m/lvert G /rvert$ where m is the number of different [left cosets](Coset.md) of $H$ in $G$
+ > Another way of thinking of this is to say that the [order](../Individuals/Order%20of%20a%20Group.md#order-of-a-group) of $H$ is a factor of the order of $G$. More precisely, $/lvert G /rvert = m/lvert G /rvert$ where m is the number of different [left cosets](../Individuals/Order%20of%20a%20Group.md) of $H$ in $G$
 
 ###### Reaching Lagrange's Theorem
 
@@ -23,7 +23,7 @@
  > 
  > \[!example\]+ Ex: [Equivalence modulo n](../Individuals/Equivalence%20Modulo%20Notation.md)
  > For a group in additive notation, the condition $b^{-1}a\in H$ becomes $a-b\in H$. For example, let $G=\Z$ and $H=5\Z$, the subgroup consisting of all the multiples of $5$. Then for $a,b\in \Z,,a\equiv b \text{ mod } H$ precisely when $a-b\in H$, that is when $a-b$ is a multiple of $5$.
- > Thus, when $H=5\Z$, equivalence modulo $H$ is exactly the same as [equivalence modulo](..\Individuals\Relation.md#574496) 5
+ > Thus, when $H=5\Z$, equivalence modulo $H$ is exactly the same as [equivalence modulo](../Individuals/Relation.md#574496) 5
 
 **Tags:** #Algebra/Groups #Theorem #Course/FPM 
 

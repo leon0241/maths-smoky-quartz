@@ -21,7 +21,7 @@ $$\begin{align}
 \\end{align}$$
 In particular, if $s\_{n}$ is the partial $n^{th}$ partial sum of the harmonic series, then $(s\_{n})$ is monotonically increasing and, by the above,
 $$s\_{2^n} \ge 1 + n\cdot \frac{1}{2}$$
-Since $\left( 1+n\cdot \frac{1}{2} \right)$ diverges to $\infty$, by the [comparison test](Comparison%20Test.md#c38bd1), the subsequence $s\_{2^n}$ also diverges to $\infty$. For a [monotonically increasing sequence](Monotone%20Sequences.md#e29b33), if a subsequence diverges to $\infty$ - implying that $(s\_{n})$ is unbounded - the entire sequence also diverges to $\infty$ by the [monotone convergence theorem](Monotone%20Convergence%20Theorem.md#f88f95). This shows that the harmonic series diverges to $\infty$. 
+Since $\left( 1+n/cdot /frac{1}{2} /right)$ diverges to $/infty$, by the [comparison test](Comparison%20Test.md#c38bd1), the subsequence $s\_{2^n}$ also diverges to $\infty$. For a [monotonically increasing sequence]( 1+n/cdot /frac{1}{2} /right)$ diverges to $/infty$, by the [comparison test](Comparison%20Test.md#e29b33), if a subsequence diverges to $\infty$ - implying that $( 1+n/cdot /frac{1}{2} /right)$ diverges to $/infty$, by the [comparison test](Comparison%20Test.md#f88f95). This shows that the harmonic series diverges to $\infty$. 
 
 The comparison test can also be used to show that $\displaystyle\sum\_{n=1}^{\infty} \frac{1}{k^p},, p\<1$ is divergent. If $p\le 1$, then $\dfrac{1}{k^p} \ge \frac{1}{k}$ for all $k\in\N$. since $\displaystyle\sum\_{n=1}^{\infty} \frac{1}{k}$ diverges, then so must $\displaystyle\sum\_{n=1}^{\infty} \frac{1}{k^p}$
 
@@ -80,7 +80,7 @@ Using these two conclusions,
  > 
  > * Assume that $p > 0$. Then, $\dfrac{1}{n^p}$ is decreasing. By Cauchy's Condensation Test, the series $\dsumoinf \dfrac{1}{n^p}$ converges iff the series $\dsumzinf 2^n\dfrac{1}{(2^n)^p}$ converges. Observe that
  >   $$2^n\dfrac{1}{(2^n)^p} = 2^{-np+n} = 2^{-(p-1)n} = \Big( \dfrac{1}{2^{p-1}}\Big)^n$$
- >   The geometric series $\dsumzinf \bigg(\dfrac{1}{2^{p-1}}\bigg)^n$ converges iff $\dfrac{1}{2^{p-1}} \< 1$ ([geometric series test](Geometric%20Series%20Test.md#691af3)), which is equivalent to $p>1$.
+ >   The geometric series $\dsumzinf \bigg(/dfrac{1}{2^{p-1}}/bigg)^n$ converges iff $/dfrac{1}{2^{p-1}} /< 1$ ([geometric series test](Geometric%20Series%20Test.md#691af3)), which is equivalent to $p>1$.
  > * If $p\le0$, then $\dfrac{1}{n^p} = n^{-p} \not\to 0$, therefore the series $\dsumoinf \dfrac{1}{n^p}$ diverges.
 
 ^fd4b54

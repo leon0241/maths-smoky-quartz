@@ -153,7 +153,7 @@ Let $g\in G$. Consider the inifinte sequence $g,g^2,g^3,\dots$ If $G$ is finite,
  > $$\langle g \rangle := {g^k ,|,k\in\mathbb{Z}} = {\dots,g^{-2}, g^{-1},e,g,g^{2},\dots  }$$
  > Note that if $G$ is finite, then $\langle g \rangle$ (being a subset of $G$) is finite, and we can think of $\langle g \rangle$ as
  > $$\langle g \rangle = {e,\mathbf{g}\dots,g^{o(g)-1}}$$
- > by [order of a finite group](..\Individuals\Order%20of%20a%20finite%20group.md#291b9b)
+ > by [order of a finite group](../Individuals/Order%20of%20a%20finite%20group.md#291b9b)
 
 ^b27ec4
 

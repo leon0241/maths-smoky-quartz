@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d4a4ef3b82f50c2",
+        "id": "35a835761282cb29",
         "type": "tabs",
         "children": [
           {
-            "id": "562c8488045e060f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Coset.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a576342f84413d4e",
+            "id": "112b164da6ef2b67",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Coset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Coset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathematics/Coset.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +148,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "562c8488045e060f",
+  "active": "112b164da6ef2b67",
   "lastOpenFiles": [
+    "Individuals/Trapezoid Rule.md",
+    "Individuals/Quadrature Rules.md",
+    "Mathematics/Coset.md",
     "Visual diagram of sets.md",
     "Mathematics/Groups.md",
     "Individuals/Elements of a group.md",
@@ -191,9 +178,6 @@
     "Individuals/Definition of a Category.md",
     "Mathematics/Defining the Real Numbers.md",
     "Individuals/Examples of a cyclic subgroup.md",
-    "Individuals/Ring Axioms.md",
-    "Mathematics/Coset.md",
-    "Mathematics/Definition of a Category 1.md",
     "Sample",
     "old_index.txt",
     "notes/images/obsidian-settings.png",

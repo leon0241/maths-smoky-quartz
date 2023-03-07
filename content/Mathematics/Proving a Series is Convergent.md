@@ -65,7 +65,7 @@ $$L-\epsilon\lt\frac{a_n}{b_n}\lt L + \epsilon$$
 Therefore: $$\frac{L}{2}\<\\frac{a_n}{b_n}\<\\frac{3L}{2}$$
 It follows that $$a_n\<\\frac{3L}{2}b_n$$
 for all $n$ with $n\geq N$
-By the [comparison test](..\Individuals\Comparison%20Test.md#c38bd1), if $\dsumoinf b_n$ converges, then $\dsumoinf b_n$ converges as well.
+By the [comparison test](../Individuals/Comparison%20Test.md#c38bd1), if $\dsumoinf b_n$ converges, then $\dsumoinf b_n$ converges as well.
 Also, $$b_n \< \frac{2}{L}a_n$$
 for all $n$ with $n\geq N$.
 By the Comparison Test, if $\dsumoinf a_n$ converges then $\dsumoinf b_n$ converges as well
@@ -166,7 +166,7 @@ Using these two conclusions,
  > 
  > * Assume that $p > 0$. Then, $\dfrac{1}{n^p}$ is decreasing. By Cauchy's Condensation Test, the series $\dsumoinf \dfrac{1}{n^p}$ converges iff the series $\dsumzinf 2^n\dfrac{1}{(2^n)^p}$ converges. Observe that
  >   $$2^n\dfrac{1}{(2^n)^p} = 2^{-np+n} = 2^{-(p-1)n} = \Big( \dfrac{1}{2^{p-1}}\Big)^n$$
- >   The geometric series $\dsumzinf \bigg(\dfrac{1}{2^{p-1}}\bigg)^n$ converges iff $\dfrac{1}{2^{p-1}} \< 1$ ([geometric series test](..\Individuals\Geometric%20Series%20Test.md#691af3)), which is equivalent to $p>1$.
+ >   The geometric series $\dsumzinf \bigg(/dfrac{1}{2^{p-1}}/bigg)^n$ converges iff $/dfrac{1}{2^{p-1}} /< 1$ ([geometric series test](../Individuals/Geometric%20Series%20Test.md#691af3)), which is equivalent to $p>1$.
  > * If $p\le0$, then $\dfrac{1}{n^p} = n^{-p} \not\to 0$, therefore the series $\dsumoinf \dfrac{1}{n^p}$ diverges.
 
 ^fd4b54
@@ -196,7 +196,7 @@ Using these two conclusions,
 
  > 
  > \[!Theorem\]+ Thm: [Monotone Convergence Theorem](../Individuals/Monotone%20Convergence%20Theorem.md)
- > If a sequence of real numbers $(s\_{n})$ is increasing and bounded above, or decreasing and bounded below, then $(s\_{n})$ is convergent (and converges to the [supremum/infinum](..\Individuals\Bounds,%20Suprema%20and%20Infima.md#35189a) of the set ${x\_{n},\vert,n\in\N}$ respectively).
+ > If a sequence of real numbers $(s/_{n})$ is increasing and bounded above, or decreasing and bounded below, then $(s/_{n})$ is convergent (and converges to the [supremum/infinum](../Individuals/Bounds,%20Suprema%20and%20Infima.md#35189a) of the set ${x\_{n},\vert,n\in\N}$ respectively).
 
 ^f88f95
 

@@ -37,8 +37,7 @@ def edit_fields(filename):
       if (tag_search != None and initial_tag_passed == False):
         initial_tag_passed = True
         frontmatter_tag_storage = tag_search.group()
-      # If regex finds a tag, and it's a separate set then it's the start of
-      # a new page embed
+      # If regex finds a tag then it's left over from delete it :p
       elif (tag_search != None):
         text[i] = ""
         continue

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Lagrange's Theorem.md",
+                "file": "Mathematics/Defining the Real Numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Lagrange's Theorem.md",
+                "file": "Mathematics/Defining the Real Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Lagrange's Theorem.md",
+                "file": "Mathematics/Defining the Real Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Lagrange's Theorem.md"
+                "file": "Mathematics/Defining the Real Numbers.md"
               }
             }
           },
@@ -169,32 +169,32 @@
   },
   "active": "9610f21f9b70041f",
   "lastOpenFiles": [
-    "Individuals/Equivalence Modulo Theorem.md",
-    "Mathematics/Lagrange's Theorem.md",
-    "Individuals/Coset Partition Theorem.md",
-    "Mathematics/Coset.md",
-    "Mathematics/Groups.md",
+    "Individuals/Axiom of Completeness.md",
     "Mathematics/Defining the Real Numbers.md",
-    "Individuals/Order Axioms of R.md",
-    "Mathematics/Category.md",
-    "Mathematics/Continuity and Functional Limits.md",
-    "Individuals/Homomorphism.md",
-    "Individuals/Integral Test.md",
-    "Individuals/Intermediate Value Theorem.md",
-    "private/Test.md",
-    "private/Symmetries.md",
     "Mathematics/Subgroups.md",
-    "Mathematics/Rings.md",
-    "Mathematics/Rings 1.md",
-    "Mathematics/Random.md",
-    "Mathematics/Proving a Sequence is Convergent.md",
-    "Mathematics/Proving a Series is Convergent.md",
-    "Mathematics/Infinite Series.md",
-    "Individuals/Trapezoid Rule.md",
-    "Individuals/Test for a subgroup.md",
-    "Individuals/Symmetry.md",
-    "Individuals/Subgroup notation.md",
-    "Individuals/Ring rng notation.md",
+    "Individuals/Order of a Group.md",
+    "Individuals/Abelian Group.md",
+    "Individuals/Alternating Series Test.md",
+    "Individuals/Applications of Lagrange.md",
+    "Mathematics/Lagrange's Theorem.md",
+    "Individuals/Archimedean Principle.md",
+    "Individuals/Bounded Theorem.md",
+    "Individuals/Bounds, Suprema and Infima.md",
+    "Individuals/Category Notation.md",
+    "Individuals/Cauchy's Condensation Test.md",
+    "Individuals/Comparison Test.md",
+    "Individuals/Consequences of Coset partitions.md",
+    "Individuals/Consequences of Cyclic subgroups.md",
+    "Individuals/Continuity.md",
+    "Individuals/Convergent Series Notation.md",
+    "Individuals/Coset Notation.md",
+    "Individuals/Coset Partition Theorem.md",
+    "Individuals/Coset Rules.md",
+    "Individuals/Creating the idea of mathematical Induction.md",
+    "Individuals/Cyclic Subgroups.md",
+    "Individuals/Defining a Group.md",
+    "Individuals/Defining Subsets of R - N,Z,Q.md",
+    "Individuals/Defining the Absolute Value.md",
     "e",
     "New folder",
     "Sample",

@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "562c8488045e060f",
+            "id": "a576342f84413d4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/CJK + Latex Support (测试).md",
+                "file": "Homework/FPM assignment 4.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "a576342f84413d4e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -77,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0fc59b0d6f39078e",
@@ -93,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/CJK + Latex Support (测试).md",
+                "file": "Homework/FPM assignment 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/CJK + Latex Support (测试).md",
+                "file": "Homework/FPM assignment 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/CJK + Latex Support (测试).md"
+                "file": "Homework/FPM assignment 4.md"
               }
             }
           },
@@ -164,49 +157,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "562c8488045e060f",
+  "active": "a576342f84413d4e",
   "lastOpenFiles": [
+    "Individuals/Order of a Group.md",
+    "Homework/FPM assignment 4.md",
+    "notes/CJK + Latex Support (测试).md",
     "private/private-note.md",
     "templates/bLem.md",
     "e/Category 1.md",
     "e/Definition of a Category 1.md",
     "Sample/Definition of a Category 1.md",
     "Sample/Category 1.md",
-    "e/New Category 1.md",
-    "Mathematics/Category.md",
-    "e/new category.md",
-    "e",
-    "New folder",
-    "Individuals/Category Notation.md",
-    "Individuals/Definition of a Category.md",
-    "Mathematics/Defining the Real Numbers.md",
-    "Individuals/Examples of a cyclic subgroup.md",
-    "Individuals/Ring Axioms.md",
-    "Mathematics/Coset.md",
-    "Mathematics/Definition of a Category 1.md",
-    "Mathematics/Definition of a Category.md",
-    "Sample",
-    "old_index.txt",
-    "Individuals/Moniod.md",
-    "Individuals/2023-03-05.md",
-    "_index.md",
-    "notes/preview changes.md",
-    "notes/philosophy.md",
-    "notes/obsidian.md",
-    "notes/ignore notes.md",
-    "notes/hosting.md",
-    "notes/editing.md",
-    "notes/images/obsidian-settings.png",
-    "notes/images/google-domains.png",
-    "notes/images/github-pages.png",
-    "notes/images/github-actions.png",
-    "notes/images/fork.png",
-    "notes/images",
-    "notes",
-    "Images/Pasted image 20230304181514.png",
-    "Images/Pasted image 20230304182042.png",
-    "Images/Pasted image 20230304181335.png",
-    "Images/Pasted image 20230304181246.png",
-    "Computing Science"
+    "e/New Category 1.md"
   ]
 }

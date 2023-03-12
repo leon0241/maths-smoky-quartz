@@ -1,2 +1,1 @@
 > [!Theorem]+ Thm: [[{{title}}|]]
-%%EOF%%

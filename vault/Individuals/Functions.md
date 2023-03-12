@@ -14,3 +14,5 @@
 > [!Definition] Def: [[Functions|Bijective Function]]
 > A function $f: X\to Y$ is called *bijective* if it is both [[Functions#Functions Injective Function|injective]] and [[Functions#Functions Surjective Function|surjective]]
 %%EOF%%
+
+^6bb763

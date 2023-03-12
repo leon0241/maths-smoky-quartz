@@ -5,4 +5,3 @@
 ![[Ring Axioms#^37dc6e]]
 
 ![[Ring rng notation#^1ce6f0]]
-%%EOF%%

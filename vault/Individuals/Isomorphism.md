@@ -1,6 +1,6 @@
 **Tags:** #Algebra/Graphs #Definition #Course/FPM 
 
-> [!Definition]+ Def: [[Isomorphism]]
+> [!Definition]+ Def: [[Isomorphism|Graph Isomorphisms]]
 > An *isomorphism* between two graphs is a [[Functions#Functions Bijective Function|bijection]] between them that preserves all edges. More precisely, if $\Gamma_{1}$ and $\Gamma_{2}$ are graphs, with sets of vertices $V_{1}$ and $V_{2}$ respectively, then an *isomorphism* from $\Gamma_{1}$ and $\Gamma_{2}$ is a bijection
 > $$f : V_{1}\to V_{2}$$
 > such that $f(v_{1})$ and $f(v_{2})$ are joined by an edge if and only if $v_{1}$ and $v_{2}$ are also joined by an edge.
@@ -11,5 +11,13 @@
 > In this situation, we call $g$ the *inverse of $f$ and write $g=f^{-1}$. If there exists an isomorphism from $A$ to $B$, we say that $A$ and $B$ are *isomorphic* and write $A\iso B$.
 
 ^6beee5
+> [!Definition]+ Def: [[Isomorphism|Group Isomorphisms]]
+> A [[Homomorphism#^1f6dd3|group homomorphism]] $\phi:G\to H$ that is also a [[Functions#^6bb763|bijection]] is called an *isomorphism* of groups. In this case we say that $G$ and $H$ are *isomorphic*. An isomorphism $G\to G$ is called an *automorphism* of $G$.
 
-%%EOF%%
+^8c41ad
+
+^88ae51
+> [!Notation]+ Ntn: [[Isomorphism|Notation of Isomorphisms]]
+> If $G$ and $H$ are *isomorphic*, we denote this with $G\iso H$.
+
+^95b7bf

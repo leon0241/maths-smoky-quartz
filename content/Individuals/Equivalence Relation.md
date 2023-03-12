@@ -11,4 +11,3 @@
  > * **S. (Symmetric):** $x\sim y$ implies that $y\sim x$ for all $x,y\in X$
  > * **T. (Transitive):** $x\sim y$ and $y\sim z$ implies that $x\sim z$ for all $x,y,z\in X$
 
-^853398

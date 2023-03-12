@@ -10,4 +10,3 @@
  > For various reasons, often we want to *partition* this set into *non-overlapping subsets*, which we draw as
  > ![Pasted image 20230213172045.png](..\Images\Pasted%20image%2020230213172045.png)
 
-^239899

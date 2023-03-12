@@ -16,4 +16,3 @@
  > 
  > 3. For $g\_{1},g\_{2}\in G$, define $g\_{1}\sim g\_{2}$ if and only if $g\_{1}H=g\_{2}H$. Then $\sim$ defines an equivalence relation on $G$.
 
-^e0f9d3

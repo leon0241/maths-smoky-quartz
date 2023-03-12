@@ -1,6 +1,6 @@
 **Tags:** #Definition #Analysis/Reals  #Course/FPM 
 
-> [!Definition]+ Def: [[Defining Subsets of R (N,Z,Q)]]
+> [!Definition]+ Def: [[Defining Subsets of R - N,Z,Q]]
 > - We will define a positive real number as any $a\in\R$ where $a>0$. We define a non-negative real number as any $a\in\R$ where $a\ge0$.
 > - We define the set of natural numbers $\N$:
 > $$\N = \{1,2,3,\dots\},$$
@@ -14,3 +14,4 @@
 ![[Peano Axioms to define N and Z#^2442a6]]
 
 ![[Creating the idea of mathematical Induction#^d0cf32]]
+%%EOF%%

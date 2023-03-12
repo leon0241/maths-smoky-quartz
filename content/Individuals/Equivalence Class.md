@@ -10,4 +10,3 @@
  > the shaded region is the equivalence class containing $x$, which *by definition*, is just all the elements that are related to $x$. It is denoted $cl(x)$. In mathematical symbols, the shaded region is defined as
  > $$cl(x) :={\text{all elements that are related to } x}={s\in X , | , x \sim s}$$
 
-^6dbdfd

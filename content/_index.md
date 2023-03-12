@@ -6,7 +6,7 @@ title: FPM Front Page
 
 ###### Week 0
 
-* [Random](Mathematics\Random.md)
+* [Random](Mathematics/Random.md)
 
 ###### Week 1
 
@@ -15,26 +15,26 @@ title: FPM Front Page
 
 ###### Week 2
 
-* [Defining the Real Numbers](Mathematics\Defining%20the%20Real%20Numbers.md)
+* [Defining the Real Numbers](Mathematics/Defining%20the%20Real%20Numbers.md)
 
 ###### Week 3
 
-* [Subgroups](Mathematics\Subgroups.md)
+* [Subgroups](Mathematics/Subgroups.md)
 
 ###### Week 4
 
-* [Infinite Series](Mathematics\Infinite%20Series.md)
-* [Proving a Sequence is Convergent](Mathematics\Proving%20a%20Sequence%20is%20Convergent.md)
-* [Proving a Series is Convergent](Mathematics\Proving%20a%20Series%20is%20Convergent.md)
+* [Infinite Series](Mathematics/Infinite%20Series.md)
+* [Proving a Sequence is Convergent](Mathematics/Proving%20a%20Sequence%20is%20Convergent.md)
+* [Proving a Series is Convergent](Mathematics/Proving%20a%20Series%20is%20Convergent.md)
 
 ###### Week 5
 
-* [Cosets](Mathematics\Coset.md)
-* [Lagrange's Theorem](Mathematics\Lagrange's%20Theorem.md)
+* [Cosets](Mathematics/Coset.md)
+* [Lagrange's Theorem](Mathematics/Lagrange's%20Theorem.md)
 
 ###### Week 6
 
-* [Continuity and Functional Limits](Mathematics\Continuity%20and%20Functional%20Limits.md)
+* [Continuity and Functional Limits](Mathematics/Continuity%20and%20Functional%20Limits.md)
 
 ###### Week 7
 
@@ -43,3 +43,4 @@ title: FPM Front Page
 ###### Week 9
 
 ###### Week 10
+

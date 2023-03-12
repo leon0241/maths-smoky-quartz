@@ -1,4 +1,8 @@
 ---
 ---
 
-a monioid is a
+**Tags:** #Definition 
+
+ > 
+ > \[!Definition\]+ Def: [Moniod](Moniod.md)
+ > A monioid is a thing

@@ -9,4 +9,3 @@
  > $$\dsumoinf (-1)^{n-1}b_n$$
  > converges.
 
-^117376

@@ -20,4 +20,3 @@
  >   * **associativity:** for each $f\in \mathcal{C}(A,B),,g\in \mathcal{C}(B,C)$ and $h\in\mathcal{C}(C,D)$ we have $(h\circ g)\circ f = h\circ (g\circ f)$
  >   * **Identity** for each $f\in \mathcal{C}(A,B)$ we have $f\circ 1\_{A} = f = 1\_{B} \circ f$
 
-^824748

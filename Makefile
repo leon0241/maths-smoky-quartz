@@ -22,3 +22,8 @@ serve: ## Serve Quartz locally
 
 docker: ## Serve locally using Docker
 	docker run -it --volume=$(shell pwd):/quartz -p 1313:1313 ghcr.io/jackyzha0/quartz:hugo
+
+obs-export:
+	python add_eof.py
+	obsidian-export vault content --frontmatter=always
+	python fix_links.py

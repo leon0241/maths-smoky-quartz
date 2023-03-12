@@ -20,3 +20,4 @@
  > 1. **Positive Definite:** $|a| \ge 0. |a| = 0$ if and only if $a=0$
  > 1. **Symmetry:** $|a-b| = |b-a|$
  > 1. **Triangle Inequality:** $|a+b| \le |a| +|b|$ and $||a|-|b||\le |a-b|$.
+

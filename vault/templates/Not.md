@@ -2,3 +2,4 @@
 
 > [!Notation]+ Not: [[{{title}}]]
 > 
+%%EOF%%

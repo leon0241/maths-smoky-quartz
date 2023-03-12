@@ -1,4 +1,5 @@
 **Tags:** #Collection #Analysis/Series #Course/FPM
+
 ![[Divergence Test#^b26127]]
 
 ![[Bounded Theorem#^03396c]]
@@ -20,3 +21,4 @@
 ![[Monotone Convergence Theorem#^f88f95]]
 
 ![[Geometric Series Test#^691af3]]
+%%EOF%%

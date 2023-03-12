@@ -1,4 +1,5 @@
 **Tags:** #Algebra/Groups #Main #Course/FPM 
+
 ![[Partition#^239899]]
 
 When we want to partition an set like shown above, we use an equivalence relation:
@@ -31,3 +32,4 @@ eH = e * H = \{e * h\,|\,h\in H\} = \{0+h\,|\, h\in H\} = \{0,2\} \\
 ![[Coset Rules#^e0f9d3]]
 
 ###### [[Lagrange's Theorem]]
+%%EOF%%

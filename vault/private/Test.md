@@ -1,4 +1,3 @@
-###### [[Test]]
 > [!Theorem] 
 
 ###### [[Test]]
@@ -32,3 +31,4 @@ test $\frac{3}{1}$
 - Identity ($e$) and $n-1$ unique rotations ($\{g,g^{2},\dots g^{n-1}\}$) for $n$ elements
 - Identity flipped ($h$) and $n-1$ flipped rotations ($\{hg,hg^{2},\dots hg^{n-1}\}$) for $n$ elements
 You can get $2n$ elements technically without $h$ if you include $hg^n$ instead, but that is the same thing, as the $g^n=e\implies hg^n=h$
+%%EOF%%

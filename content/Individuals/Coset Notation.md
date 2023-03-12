@@ -9,4 +9,3 @@
  > $$AB:={ab ,|, a\in A, b\in B}, \qquad gA := {ga,|,a\in A}$$
  > and similarly for other obvious variants.
 
-^5f041f

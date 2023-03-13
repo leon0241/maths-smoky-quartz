@@ -4,42 +4,82 @@
     "type": "split",
     "children": [
       {
-        "id": "0d4a4ef3b82f50c2",
+        "id": "35a835761282cb29",
         "type": "tabs",
         "children": [
           {
-            "id": "a576342f84413d4e",
+            "id": "112b164da6ef2b67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Going between Groups.md",
+                "file": "Mathematics/Coset.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9610f21f9b70041f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Individuals/Category of Logic.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "30ab2185e2f84f63"
-          }
-        ]
-      },
-      {
-        "id": "20279bbc8bc2e9b0",
-        "type": "tabs",
-        "children": [
+            "group": "22c551a00813a14d"
+          },
           {
-            "id": "59483372c7416af7",
+            "id": "c26ef9320083b8af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Going between Groups.md",
+                "file": "Individuals/Functor.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "b5cc38294e871a0d"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5d61fbca07f2ef57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad3be61e7af1c16b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Individuals/Functor.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "30ab2185e2f84f63"
+            "group": "b5cc38294e871a0d"
+          },
+          {
+            "id": "7236ace6d5d815f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Individuals/Category of Logic.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "22c551a00813a14d"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#Algebra/homomor",
+                "query": "monio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "0fc59b0d6f39078e",
@@ -105,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Going between Groups.md",
+                "file": "Individuals/Category of Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Going between Groups.md",
+                "file": "Individuals/Category of Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Going between Groups.md"
+                "file": "Individuals/Category of Logic.md"
               }
             }
           },
@@ -157,13 +197,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,34 +214,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a576342f84413d4e",
+  "active": "9610f21f9b70041f",
   "lastOpenFiles": [
-    "Individuals/Consequences of Group homomorphisms.md",
-    "Mathematics/Going between Groups.md",
-    "Individuals/Cyclic Isomorphism Theorem.md",
-    "Individuals/Cyclic Subgroups.md",
-    "Individuals/Coprime Cyclic Theorem.md",
-    "Individuals/Consequences of Cyclic groups.md",
-    "Individuals/Properties of Isomorphisms.md",
+    "Individuals/Giant List of Categories.md",
+    "Individuals/Category of Logic.md",
+    "Individuals/Preorder.md",
+    "Individuals/Functor.md",
+    "Mathematics/Category.md",
+    "Individuals/Poset.md",
     "Individuals/Isomorphism.md",
-    "Individuals/Homomorphism.md",
+    "Mathematics/Defining the Real Numbers.md",
+    "Mathematics/Going between Groups.md",
+    "Individuals/Commutative Subgroup Theorem.md",
+    "Individuals/Consequences of Cyclic groups.md",
+    "Individuals/Coprime Cyclic Theorem.md",
+    "Individuals/Consequences of Group homomorphisms.md",
+    "Individuals/Cyclic Isomorphism Theorem.md",
+    "Individuals/Homomorphism Subgroup.md",
     "Individuals/Image and Kernel of a group.md",
+    "Individuals/Kernel Injection Theorem.md",
+    "Individuals/Product of two subgroups of a group.md",
+    "Individuals/Order of Cartesian Product.md",
+    "Individuals/Product Groups.md",
+    "Individuals/Properties of Isomorphisms.md",
     "Images/Pasted image 20230312135144.png",
-    "templates/bRem.md",
-    "templates/Def.md",
-    "templates/Rem.md",
-    "Individuals/Definition of a homomorphism.md",
-    "templates/bLem.md",
-    "templates/bNot.md",
-    "templates/bThm.md",
+    "Individuals/Symmetry set subgroup Theorem.md",
     "templates/bDef.md",
-    "Mathematics/Rings.md",
-    "Mathematics/Random.md",
-    "Mathematics/Proving a Series is Convergent.md",
-    "templates/Not.md",
-    "private/private-note.md",
-    "templates/post.md",
-    "templates/Thm.md",
-    "templates/Main.md"
+    "templates/Rem.md",
+    "Homework/FPM assignment 4.md",
+    "Individuals/Axiom of Completeness.md",
+    "e",
+    "New folder",
+    "Sample",
+    "old_index.txt",
+    "notes/images/obsidian-settings.png",
+    "notes/images/google-domains.png",
+    "notes/images/github-pages.png",
+    "notes/images/github-actions.png",
+    "notes/images/fork.png",
+    "notes/images",
+    "notes",
+    "Images/Pasted image 20230304181514.png",
+    "Images/Pasted image 20230304182042.png",
+    "Images/Pasted image 20230304181335.png",
+    "Images/Pasted image 20230304181246.png",
+    "Computing Science"
   ]
 }

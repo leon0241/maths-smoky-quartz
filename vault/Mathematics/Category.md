@@ -1,9 +1,11 @@
 **Tags:** #Main #Algebra/Categories #Course/Category_Theory 
 
-![[Definition of a Category#^824748]]
+![[Definition of a Category#^824748]] ^4991b1
 
 ![[Category Notation#^1e6868]]
 
-![[Isomorphism#^6beee5]]
+![[Isomorphism#^9826ba]]
 
-%%EOF%%
+![[Functor#^c7347e]]
+
+#### [[Giant List of Categories]]

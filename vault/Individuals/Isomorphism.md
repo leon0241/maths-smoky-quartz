@@ -7,11 +7,11 @@
 > We say that $\Gamma_{1}$ and $\Gamma_{2}$ are *isomorphic* if there exists an isomorphism $f:\Gamma_{1}\to\Gamma_{2}$
 
 > [!Definition]+ Def: [[Isomorphism|Isomorphisms in Category Theory]]
-> A map $f:A\to B$ in a category $\mathcal{C}$ is an *isomorphism* if there exists a map $g:B\to A$ in $\mathcal{C}$ such that $gf=1_{A}$ and $fg=1_{B}$.
-> In this situation, we call $g$ the *inverse* of $f$ and write $g=f^{-1}$. If there exists an isomorphism from $A$ to $B$, we say that $A$ and $B$ are *isomorphic* and write $A\iso B$.
+> In any [[Definition of a Category|category]] $C$, an arrow $f:A\to B$ is called an *isomorphism* if there is an arrow $g:B\to A$ in $C$ such that
+> $$g\circ f=1_{A} \quad \text{and} \quad f\circ g=1_{B}$$
+> since $g$ can also be thought of as the inverse of $f$, we write $g=f^{-1}$. We say that $A$ is *isomorphic* to $B$, written $A\iso B$, if there exists an isomorphism between them
 
 ^9826ba
-
 
 ^6beee5
 > [!Definition]+ Def: [[Isomorphism|Group Isomorphisms]]

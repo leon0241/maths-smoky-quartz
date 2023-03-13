@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "112b164da6ef2b67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Coset.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9610f21f9b70041f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individuals/Category of Logic.md",
+                "file": "Mathematics/Monoids and Category Isomorphisms.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "22c551a00813a14d"
+            "group": "8df24f6e7d61a5e8"
           },
           {
             "id": "c26ef9320083b8af",
@@ -42,44 +30,28 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "b5cc38294e871a0d"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "5d61fbca07f2ef57",
+        "id": "923082f7e094b0c8",
         "type": "tabs",
         "children": [
           {
-            "id": "ad3be61e7af1c16b",
+            "id": "d0e87dc3ca22f7b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individuals/Functor.md",
+                "file": "Mathematics/Monoids and Category Isomorphisms.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "b5cc38294e871a0d"
-          },
-          {
-            "id": "7236ace6d5d815f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Individuals/Category of Logic.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "22c551a00813a14d"
+            "group": "8df24f6e7d61a5e8"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "monio",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individuals/Category of Logic.md",
+                "file": "Mathematics/Monoids and Category Isomorphisms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Individuals/Category of Logic.md",
+                "file": "Mathematics/Monoids and Category Isomorphisms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Individuals/Category of Logic.md"
+                "file": "Mathematics/Monoids and Category Isomorphisms.md"
               }
             }
           },
@@ -197,7 +169,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,33 +189,34 @@
   },
   "active": "9610f21f9b70041f",
   "lastOpenFiles": [
-    "Individuals/Giant List of Categories.md",
-    "Individuals/Category of Logic.md",
-    "Individuals/Preorder.md",
-    "Individuals/Functor.md",
+    "Individuals/Cayley's Theorem on Categories.md",
+    "Mathematics/Monoids and Category Isomorphisms.md",
+    "Individuals/Cayley's Theorem.md",
     "Mathematics/Category.md",
-    "Individuals/Poset.md",
+    "Individuals/Giant List of Categories.md",
+    "Mathematics/Monoids.md",
+    "templates/Main.md",
+    "templates/Def.md",
+    "Individuals/Automorphism.md",
     "Individuals/Isomorphism.md",
-    "Mathematics/Defining the Real Numbers.md",
+    "Individuals/Definition of a Group.md",
+    "Individuals/Generalisation of the isomorphism definition.md",
+    "Individuals/Poset.md",
+    "Mathematics/Coset.md",
+    "Individuals/Functor.md",
+    "Individuals/Category of Monoids.md",
+    "templates/bEx.md",
+    "Individuals/Homomorphism.md",
+    "Individuals/Monoid of Compositions.md",
     "Mathematics/Going between Groups.md",
-    "Individuals/Commutative Subgroup Theorem.md",
-    "Individuals/Consequences of Cyclic groups.md",
-    "Individuals/Coprime Cyclic Theorem.md",
-    "Individuals/Consequences of Group homomorphisms.md",
-    "Individuals/Cyclic Isomorphism Theorem.md",
-    "Individuals/Homomorphism Subgroup.md",
-    "Individuals/Image and Kernel of a group.md",
-    "Individuals/Kernel Injection Theorem.md",
-    "Individuals/Product of two subgroups of a group.md",
-    "Individuals/Order of Cartesian Product.md",
-    "Individuals/Product Groups.md",
-    "Individuals/Properties of Isomorphisms.md",
+    "Individuals/Definition of a Monoid.md",
+    "Images/Pasted image 20230313020847.png",
+    "Individuals/Ring Axioms.md",
+    "Individuals/Preorder.md",
+    "Individuals/Category of Logic.md",
+    "Individuals/Category of a programming language.md",
+    "Individuals/Discrete Category.md",
     "Images/Pasted image 20230312135144.png",
-    "Individuals/Symmetry set subgroup Theorem.md",
-    "templates/bDef.md",
-    "templates/Rem.md",
-    "Homework/FPM assignment 4.md",
-    "Individuals/Axiom of Completeness.md",
     "e",
     "New folder",
     "Sample",
@@ -257,7 +231,6 @@
     "Images/Pasted image 20230304181514.png",
     "Images/Pasted image 20230304182042.png",
     "Images/Pasted image 20230304181335.png",
-    "Images/Pasted image 20230304181246.png",
     "Computing Science"
   ]
 }

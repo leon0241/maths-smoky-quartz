@@ -15,3 +15,5 @@
 > Therefore, we can construct the category of all categories and functors $\text{Cat}$
 
 ^e29f09
+
+![[Category of Monoids#^63be0f]]

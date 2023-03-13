@@ -4,8 +4,6 @@
 
 ![[Category Notation#^1e6868]]
 
-![[Isomorphism#^9826ba]]
-
 ![[Functor#^c7347e]]
 
 #### [[Giant List of Categories]]

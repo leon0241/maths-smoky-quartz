@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Constructions on Categories.md",
+                "file": "Individuals/Arrow Category.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Constructions on Categories.md",
+                "file": "Individuals/Arrow Category.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Constructions on Categories.md",
+                "file": "Individuals/Arrow Category.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Constructions on Categories.md",
+                "file": "Individuals/Arrow Category.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Constructions on Categories.md"
+                "file": "Individuals/Arrow Category.md"
               }
             }
           },
@@ -177,13 +177,15 @@
   },
   "active": "d0e87dc3ca22f7b2",
   "lastOpenFiles": [
+    "Mathematics/Constructions on Categories.md",
+    "Individuals/Dual Category.md",
+    "Individuals/Arrow Category.md",
     "Mathematics/Monoids and Category Isomorphisms.md",
     "Individuals/Category of Monoids.md",
     "Individuals/Definition of a Monoid.md",
     "Individuals/Isomorphism.md",
     "Individuals/Giant List of Categories.md",
     "Mathematics/Category.md",
-    "Mathematics/Constructions on Categories.md",
     "Individuals/Product of two categories.md",
     "Individuals/Automorphism.md",
     "Individuals/Cayley's Theorem.md",
@@ -201,8 +203,6 @@
     "templates/Def.md",
     "Individuals/Definition of a Group.md",
     "Individuals/Generalisation of the isomorphism definition.md",
-    "Mathematics/Coset.md",
-    "templates/bEx.md",
     "Images/Pasted image 20230313020847.png",
     "Images/Pasted image 20230312135144.png",
     "e",

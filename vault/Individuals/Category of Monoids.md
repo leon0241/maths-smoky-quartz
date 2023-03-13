@@ -7,7 +7,7 @@
 
 ^5c4ce6
 
-> [!Remark]+ Rem: [[Category of Monoids|Monoid Functor Duality]]
+> [!Remark]+ Rem: [[Category of Monoids|Monoids are Functors and Categories]]
 > A monoid homomorphism from $M$ to $N$ is the same thing as a [[Functor#^c7347e|functor]] from $M$ regarded as a category, to $N$ regarded as a category. In this sense, categories are also generalised monoids, and functors are generalised homomorphisms.
 
 ^63be0f

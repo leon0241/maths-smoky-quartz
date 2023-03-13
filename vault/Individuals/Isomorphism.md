@@ -1,4 +1,4 @@
-**Tags:** #Algebra/Graphs #Definition #Course/FPM 
+**Tags:** #Algebra/Graphs #Definition #Course/FPM #Algebra/Categories #Course/Category_Theory 
 
 > [!Definition]+ Def: [[Isomorphism|Graph Isomorphisms]]
 > An *isomorphism* between two graphs is a [[Functions#Functions Bijective Function|bijection]] between them that preserves all edges. More precisely, if $\Gamma_{1}$ and $\Gamma_{2}$ are graphs, with sets of vertices $V_{1}$ and $V_{2}$ respectively, then an *isomorphism* from $\Gamma_{1}$ and $\Gamma_{2}$ is a bijection

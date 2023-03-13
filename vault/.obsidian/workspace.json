@@ -4,37 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "35a835761282cb29",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9610f21f9b70041f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Monoids and Category Isomorphisms.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "8df24f6e7d61a5e8"
-          },
-          {
-            "id": "c26ef9320083b8af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Individuals/Functor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "923082f7e094b0c8",
         "type": "tabs",
         "children": [
@@ -44,12 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Monoids and Category Isomorphisms.md",
+                "file": "Mathematics/Constructions on Categories.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "ff7fae0cf9f05623"
+          }
+        ]
+      },
+      {
+        "id": "c8f8006ea3dabde3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "402d05b71a842b1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Constructions on Categories.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "8df24f6e7d61a5e8"
+            "group": "ff7fae0cf9f05623"
           }
         ]
       }
@@ -117,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Monoids and Category Isomorphisms.md",
+                "file": "Mathematics/Constructions on Categories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Monoids and Category Isomorphisms.md",
+                "file": "Mathematics/Constructions on Categories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Monoids and Category Isomorphisms.md"
+                "file": "Mathematics/Constructions on Categories.md"
               }
             }
           },
@@ -187,35 +175,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9610f21f9b70041f",
+  "active": "d0e87dc3ca22f7b2",
   "lastOpenFiles": [
-    "Individuals/Cayley's Theorem on Categories.md",
     "Mathematics/Monoids and Category Isomorphisms.md",
-    "Individuals/Cayley's Theorem.md",
-    "Mathematics/Category.md",
+    "Individuals/Category of Monoids.md",
+    "Individuals/Definition of a Monoid.md",
+    "Individuals/Isomorphism.md",
     "Individuals/Giant List of Categories.md",
+    "Mathematics/Category.md",
+    "Mathematics/Constructions on Categories.md",
+    "Individuals/Product of two categories.md",
+    "Individuals/Automorphism.md",
+    "Individuals/Cayley's Theorem.md",
+    "Individuals/Monoid of Compositions.md",
+    "Individuals/Category of a programming language.md",
+    "Individuals/Category of Logic.md",
+    "Individuals/Preorder.md",
+    "Individuals/Functor.md",
+    "Individuals/Poset.md",
+    "Individuals/Definition of a Category.md",
+    "Individuals/Category Notation.md",
+    "Individuals/Cayley's Theorem on Categories.md",
     "Mathematics/Monoids.md",
     "templates/Main.md",
     "templates/Def.md",
-    "Individuals/Automorphism.md",
-    "Individuals/Isomorphism.md",
     "Individuals/Definition of a Group.md",
     "Individuals/Generalisation of the isomorphism definition.md",
-    "Individuals/Poset.md",
     "Mathematics/Coset.md",
-    "Individuals/Functor.md",
-    "Individuals/Category of Monoids.md",
     "templates/bEx.md",
-    "Individuals/Homomorphism.md",
-    "Individuals/Monoid of Compositions.md",
-    "Mathematics/Going between Groups.md",
-    "Individuals/Definition of a Monoid.md",
     "Images/Pasted image 20230313020847.png",
-    "Individuals/Ring Axioms.md",
-    "Individuals/Preorder.md",
-    "Individuals/Category of Logic.md",
-    "Individuals/Category of a programming language.md",
-    "Individuals/Discrete Category.md",
     "Images/Pasted image 20230312135144.png",
     "e",
     "New folder",

@@ -4,40 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "923082f7e094b0c8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d0e87dc3ca22f7b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Individuals/Arrow Category.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "ff7fae0cf9f05623"
-          }
-        ]
-      },
-      {
         "id": "c8f8006ea3dabde3",
         "type": "tabs",
         "children": [
           {
-            "id": "402d05b71a842b1d",
+            "id": "c9e4090a4c3ce8b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individuals/Arrow Category.md",
-                "mode": "preview",
+                "file": "Homework/FPM assignment 4.md",
+                "mode": "source",
                 "source": false
               }
-            },
-            "group": "ff7fae0cf9f05623"
+            }
           }
         ]
       }
@@ -68,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Analysis/Proofs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individuals/Arrow Category.md",
+                "file": "Homework/FPM assignment 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Individuals/Arrow Category.md",
+                "file": "Homework/FPM assignment 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Individuals/Arrow Category.md"
+                "file": "Homework/FPM assignment 4.md"
               }
             }
           },
@@ -175,11 +156,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d0e87dc3ca22f7b2",
+  "active": "c9e4090a4c3ce8b6",
   "lastOpenFiles": [
+    "Individuals/Epsilon Delta Function Limits.md",
+    "Homework/FPM assignment 4.md",
+    "Mathematics/Continuity and Functional Limits.md",
+    "Individuals/Continuity.md",
+    "Individuals/Showing a function is continuous.md",
+    "Individuals/Examples of an Epsilon Delta Proof.md",
+    "templates/bEx.md",
+    "templates/bQu.md",
+    "Homework/FPM Assignment 3.md",
+    "Individuals/Arrow Category.md",
     "Mathematics/Constructions on Categories.md",
     "Individuals/Dual Category.md",
-    "Individuals/Arrow Category.md",
     "Mathematics/Monoids and Category Isomorphisms.md",
     "Individuals/Category of Monoids.md",
     "Individuals/Definition of a Monoid.md",
@@ -194,15 +184,6 @@
     "Individuals/Category of Logic.md",
     "Individuals/Preorder.md",
     "Individuals/Functor.md",
-    "Individuals/Poset.md",
-    "Individuals/Definition of a Category.md",
-    "Individuals/Category Notation.md",
-    "Individuals/Cayley's Theorem on Categories.md",
-    "Mathematics/Monoids.md",
-    "templates/Main.md",
-    "templates/Def.md",
-    "Individuals/Definition of a Group.md",
-    "Individuals/Generalisation of the isomorphism definition.md",
     "Images/Pasted image 20230313020847.png",
     "Images/Pasted image 20230312135144.png",
     "e",

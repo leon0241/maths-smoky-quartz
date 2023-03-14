@@ -9,4 +9,4 @@
 > Composition of arrows is done componentwise:
 > $$(h_{1},h_{2})\circ (g_{1}, g_{2})=(h_{1}\circ g_{1},h_{2}\circ g_{2})$$
 > There are two functors:
-> $$\mathbf{C}\xleftarrow{\dom}\mathbf{C}^{\to}\xrightarrow{\text{cod}} \mathbf{C}$$
+> $$\mathbf{C}\xleftarrow{\dom{}}\mathbf{C}^{\to}\xrightarrow{\text{cod}} \mathbf{C}$$

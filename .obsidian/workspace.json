@@ -11,8 +11,12 @@
             "id": "a3658002511a3b4e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CODE_OF_CONDUCT.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3156d7520ea8e6c8",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CODE_OF_CONDUCT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CODE_OF_CONDUCT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CODE_OF_CONDUCT.md"
+              }
             }
           }
         ]
@@ -138,6 +147,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3658002511a3b4e",
+  "active": "f5fc2e582d0a55a1",
   "lastOpenFiles": []
 }

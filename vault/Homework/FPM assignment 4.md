@@ -4,10 +4,10 @@
 
 a) From Lemma 3.1.5, if $\phi:G\to H$ is injective, then the order of $g\in G$ equals the order of $\phi(g)\in H$. Since $\phi$ is an isomorphism, it is injective by definition. Therefore each element has the same order as its respective map, meaning $G$ and $H$ have the same number of elements of order $k$.
 
-b) For the symmetric group $S_{4}$, an element can thought of as a cycle that maps up to $4$ elements in the set, for example the cycle that maps $1\mapsto 2,\,2\mapsto 3,\,3 \mapsto 4, 4\mapsto 1$ is represented like 
+b) For the symmetric group $S_{4}$, an element can thought of as a cycle that maps up to $4$ elements in the set, for example the cycle that maps $0\mapsto 1,\,1\mapsto 2,\,2 \mapsto 3, 3\mapsto 0$ is represented like 
 $$\left(\begin{matrix}
-1&2&3&4 \\
-2&3&4&1
+0&1&2&3 \\
+1&2&3&0
 \end{matrix}\right)$$
 where the number of elements in the cycle will determine the order ($o(n)$) of the element, as after $n$ permutations an element returns back to its base state.
 Elements with only one cycle have an order of the size of the element, while elements with multiple (disjoint) cycles have an order of the $\lcm$ of the orders of the two cycles as when one cycle returns to the base state it doesn't neccessarily guarantee the other cycle does as well.

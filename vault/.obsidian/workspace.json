@@ -4,35 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "c8f8006ea3dabde3",
-        "type": "tabs",
+        "id": "1cd2b842b39331e3",
+        "type": "split",
         "children": [
           {
-            "id": "c9e4090a4c3ce8b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homework/FPM assignment 4.md",
-                "mode": "preview",
-                "source": false
+            "id": "30404ecc678dc0a4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fc8ed74b78acc8a9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Mathematics/Going between Groups.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "717165faa294d681",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Mathematics/Group Actions.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "e288a2c3ce6d5a17"
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "4108c066d740a30c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/cnu-thing.md",
-                "mode": "source",
-                "source": false
+            "id": "e2c2dc059359caf0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ba561ae73c150211",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Mathematics/Group Actions.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                },
+                "group": "e288a2c3ce6d5a17"
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -98,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/cnu-thing.md",
+                "file": "Mathematics/Group Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/cnu-thing.md",
+                "file": "Mathematics/Group Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/cnu-thing.md"
+                "file": "Mathematics/Group Actions.md"
               }
             }
           },
@@ -150,12 +177,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,14 +195,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4108c066d740a30c",
+  "active": "717165faa294d681",
   "lastOpenFiles": [
-    "Homework/FPM assignment 4.md",
-    "private/cnu-thing.md",
-    "Individuals/Epsilon Delta Function Limits.md",
+    "Individuals/Definition of a Group Action.md",
+    "Mathematics/Group Actions.md",
+    "Individuals/Definition of a Group.md",
+    "Mathematics/Going between Groups.md",
+    "Mathematics/Groups.md",
     "Mathematics/Continuity and Functional Limits.md",
-    "Individuals/Continuity.md",
     "Individuals/Showing a function is continuous.md",
+    "Mathematics/Lagrange's Theorem.md",
+    "private/cnu-thing.md",
+    "Homework/FPM assignment 4.md",
+    "Mathematics/Coset.md",
+    "Individuals/Equivalence Relation.md",
+    "Individuals/Relation.md",
+    "Individuals/Symmetry.md",
+    "Individuals/Root Test.md",
+    "Individuals/Quadrature Rules.md",
+    "Individuals/Epsilon Delta Function Limits.md",
+    "Individuals/Continuity.md",
     "Individuals/Examples of an Epsilon Delta Proof.md",
     "templates/bEx.md",
     "templates/bQu.md",
@@ -184,18 +223,6 @@
     "Mathematics/Constructions on Categories.md",
     "Individuals/Dual Category.md",
     "Mathematics/Monoids and Category Isomorphisms.md",
-    "Individuals/Category of Monoids.md",
-    "Individuals/Definition of a Monoid.md",
-    "Individuals/Isomorphism.md",
-    "Individuals/Giant List of Categories.md",
-    "Mathematics/Category.md",
-    "Individuals/Product of two categories.md",
-    "Individuals/Automorphism.md",
-    "Individuals/Cayley's Theorem.md",
-    "Individuals/Monoid of Compositions.md",
-    "Individuals/Category of a programming language.md",
-    "Individuals/Category of Logic.md",
-    "Individuals/Preorder.md",
     "Images/Pasted image 20230313020847.png",
     "Images/Pasted image 20230312135144.png",
     "e",

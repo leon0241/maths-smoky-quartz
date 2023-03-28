@@ -1,4 +1,4 @@
-**Tags:** #Main #Algebra/Homomorphisms #Course/FPM 
+The SUID sandbox helper binary was found, but is not configured correctly. Rather than run without sandboxing I'm aborting now. You need to make sure that /tmp/.mount_ObsidiMIAMGZ/chrome-sandbox is owned by root and has mode 4755.**Tags:** #Main #Algebra/Homomorphisms #Course/FPM 
 ###### [[Going between Groups]]
 
 ![[Homomorphism#^1f6dd3]]

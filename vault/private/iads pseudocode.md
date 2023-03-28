@@ -15,11 +15,12 @@
 - Line 1 is $O(n)$ (goes through all nodes $n$)
 - Line 4 is $O(n)$ (worst case $n$ connected nodes all in a line)
 - Line 5 is $O(n)$ (worst case $n - 1$ connected nodes to the root)
-- Line 6,7 is $O(1)$ (worst case ust do $1$ operation i.e. lookup on kv1/kv0 array)
+- Line 6,7 is $O(1)$ (worst case is do $1$ operation i.e. lookup on kv1/kv0 array)
 - Line 8 is $O(1)$
 
 ![[Pasted image 20230328193341.png]]
 
-Line 4 and line 5 cannot both happen at the same time (if there is $n$ layers, then line 5 will only have $1$ node per layer. conversely if there are $n-1$ connected nodes to the root, then there is only $2$ layers)
+
 Therefore lines 4 through 7 is $O(n)$
 Therefore the total time complexity of the algorithm is $O(n)$
+

@@ -4,35 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "30404ecc678dc0a4",
+        "id": "5d0ace621ef7d018",
         "type": "tabs",
         "children": [
           {
-            "id": "fc8ed74b78acc8a9",
+            "id": "82d40c7939808811",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Going between Groups.md",
+                "file": "Mathematics/Differentiation.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "717165faa294d681",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Individuals/Differentiable Points.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            },
+            "group": "8ef71418a0f0fe3f"
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "9fe25187778e41b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cada8ea707f1d79c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Differentiation.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "8ef71418a0f0fe3f"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0fc59b0d6f39078e",
@@ -98,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individuals/Differentiable Points.md",
+                "file": "Mathematics/Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Individuals/Differentiable Points.md",
+                "file": "Mathematics/Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Individuals/Differentiable Points.md"
+                "file": "Mathematics/Differentiation.md"
               }
             }
           },
@@ -168,50 +175,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "717165faa294d681",
+  "active": "82d40c7939808811",
   "lastOpenFiles": [
+    "Individuals/Differentiation Rules.md",
     "Mathematics/Differentiation.md",
-    "Individuals/Differentiable Points.md",
+    "Individuals/Differentiation and Continuity.md",
+    "Images/Pasted image 20230412114037.png",
+    "Individuals/Differentiable Intervals.md",
+    "Individuals/One-sided Derivatives.md",
+    "Individuals/Tangent to a graph.md",
+    "Images/Pasted image 20230412113025.png",
+    "Mathematics/Going between Groups.md",
+    "Mathematics/Lagrange's Theorem.md",
+    "Mathematics/Monoids and Category Isomorphisms.md",
+    "Individuals/Symmetric Group.md",
+    "Individuals/Examples of Graphs and Symmetries.md",
+    "Images/Pasted image 20230412103907.png",
+    "Images/Pasted image 20230412103906.png",
+    "Images/Pasted image 20230412103626.png",
+    "Mathematics/Symmetries and Graphs.md",
+    "Individuals/Dihedral Group.md",
+    "Images/Pasted image 20230412102532.png",
+    "Individuals/Examples of a group.md",
+    "Individuals/Definition of a Symmetry.md",
+    "Images/Pasted image 20230412102018.png",
+    "Individuals/Definition of a Graph.md",
+    "Mathematics/Group Actions.md",
+    "Mathematics/Defining the Real Numbers.md",
     "Mathematics/Continuity and Functional Limits.md",
+    "Individuals/Showing a function is continuous.md",
+    "Mathematics/Coset.md",
+    "Mathematics/Category.md",
+    "Individuals/Differentiable Points.md",
     "private/iads pseudocode.md",
     "Individuals/Stabilizer of a Set.md",
     "Individuals/Orbit of a set.md",
-    "Individuals/Fix of a set.md",
-    "Individuals/Faithful Action.md",
-    "Individuals/Examples of a group action.md",
     "Images/Pasted image 20230328193341.png",
-    "Individuals/Showing a function is continuous.md",
-    "Mathematics/Constructions on Categories.md",
-    "Mathematics/Category.md",
-    "Mathematics/Coset.md",
-    "Mathematics/Defining the Real Numbers.md",
-    "Mathematics/Going between Groups.md",
-    "Mathematics/Group Actions.md",
-    "Mathematics/Infinite Series.md",
-    "Mathematics/Groups.md",
-    "Mathematics/Lagrange's Theorem.md",
-    "Mathematics/Proving a Sequence is Convergent.md",
-    "Mathematics/Monoids and Category Isomorphisms.md",
-    "Individuals/Homomorphism.md",
-    "Individuals/Definition of a Group Action.md",
-    "Individuals/Definition of a Group.md",
-    "private/cnu-thing.md",
-    "Homework/FPM assignment 4.md",
     "Images/Pasted image 20230313020847.png",
     "Images/Pasted image 20230312135144.png",
     "e",
     "New folder",
     "Sample",
     "old_index.txt",
-    "notes/images/obsidian-settings.png",
-    "notes/images/google-domains.png",
-    "notes/images/github-pages.png",
-    "notes/images/github-actions.png",
-    "notes/images/fork.png",
     "notes/images",
     "notes",
-    "Images/Pasted image 20230304181514.png",
-    "Images/Pasted image 20230304182042.png",
     "Computing Science"
   ]
 }

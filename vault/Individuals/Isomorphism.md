@@ -6,6 +6,8 @@
 > such that $f(v_{1})$ and $f(v_{2})$ are joined by an edge if and only if $v_{1}$ and $v_{2}$ are also joined by an edge.
 > We say that $\Gamma_{1}$ and $\Gamma_{2}$ are *isomorphic* if there exists an isomorphism $f:\Gamma_{1}\to\Gamma_{2}$
 
+^3646c7
+
 > [!Definition]+ Def: [[Isomorphism|Isomorphisms in Category Theory]]
 > In any [[Definition of a Category|category]] $C$, an arrow $f:A\to B$ is called an *isomorphism* if there is an arrow $g:B\to A$ in $C$ such that
 > $$g\circ f=1_{A} \quad \text{and} \quad f\circ g=1_{B}$$

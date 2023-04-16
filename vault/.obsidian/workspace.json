@@ -11,33 +11,9 @@
             "id": "82d40c7939808811",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Differentiation.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "8ef71418a0f0fe3f"
-          }
-        ]
-      },
-      {
-        "id": "9fe25187778e41b3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cada8ea707f1d79c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Differentiation.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "8ef71418a0f0fe3f"
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -105,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathematics/Differentiation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,48 +149,49 @@
   },
   "active": "82d40c7939808811",
   "lastOpenFiles": [
-    "Individuals/Differentiation Rules.md",
-    "Mathematics/Differentiation.md",
-    "Individuals/Differentiation and Continuity.md",
-    "Images/Pasted image 20230412114037.png",
-    "Individuals/Differentiable Intervals.md",
-    "Individuals/One-sided Derivatives.md",
-    "Individuals/Tangent to a graph.md",
-    "Images/Pasted image 20230412113025.png",
-    "Mathematics/Going between Groups.md",
-    "Mathematics/Lagrange's Theorem.md",
+    "Individuals/Invertible Matrix Group.md",
+    "Individuals/Factor of element orders theorem.md",
+    "Individuals/Consequences of Lagrange.md",
+    "private/Test.md",
+    "private/Symmetries.md",
+    "private/private-note.md",
+    "private/iads pseudocode.md",
+    "private/cnu-thing.md",
+    "private",
+    "old_index.txt",
+    "_index.md",
+    "templates/bThm.md",
+    "templates/bRem.md",
+    "templates/bQu.md",
+    "templates/bNot.md",
+    "templates/bLem.md",
+    "templates/bEx.md",
+    "templates/bDef.md",
+    "templates/Thm.md",
+    "templates/Rem.md",
+    "templates/Not.md",
+    "templates/Def.md",
+    "Mathematics/Symmetries and Graphs.md",
+    "Mathematics/Rings 1.md",
     "Mathematics/Monoids and Category Isomorphisms.md",
-    "Individuals/Symmetric Group.md",
-    "Individuals/Examples of Graphs and Symmetries.md",
+    "Mathematics/Lagrange's Theorem.md",
+    "Mathematics/Group Actions.md",
+    "Mathematics/Going between Groups.md",
+    "Images/Pasted image 20230412114037.png",
+    "Images/Pasted image 20230412113025.png",
     "Images/Pasted image 20230412103907.png",
     "Images/Pasted image 20230412103906.png",
     "Images/Pasted image 20230412103626.png",
-    "Mathematics/Symmetries and Graphs.md",
-    "Individuals/Dihedral Group.md",
     "Images/Pasted image 20230412102532.png",
-    "Individuals/Examples of a group.md",
-    "Individuals/Definition of a Symmetry.md",
     "Images/Pasted image 20230412102018.png",
-    "Individuals/Definition of a Graph.md",
-    "Mathematics/Group Actions.md",
-    "Mathematics/Defining the Real Numbers.md",
-    "Mathematics/Continuity and Functional Limits.md",
-    "Individuals/Showing a function is continuous.md",
-    "Mathematics/Coset.md",
-    "Mathematics/Category.md",
-    "Individuals/Differentiable Points.md",
-    "private/iads pseudocode.md",
-    "Individuals/Stabilizer of a Set.md",
-    "Individuals/Orbit of a set.md",
     "Images/Pasted image 20230328193341.png",
     "Images/Pasted image 20230313020847.png",
     "Images/Pasted image 20230312135144.png",
+    "Computing Science",
     "e",
     "New folder",
     "Sample",
-    "old_index.txt",
     "notes/images",
-    "notes",
-    "Computing Science"
+    "notes"
   ]
 }

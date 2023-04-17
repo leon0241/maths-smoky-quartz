@@ -1,6 +1,6 @@
 **Tags:** #Main #Algebra/Groups #Course/FPM 
 
-![[Defining a Group#^7b096a]]
+![[Definition of a Group#^7b096a]]
 
 ![[Abelian Group#^87fcbf]]
 

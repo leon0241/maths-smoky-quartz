@@ -2,7 +2,6 @@ from file_class import File
 import os
 import configparser as ini_p
 import regex as re
-import regex_variables as revar
 from importlib import reload
 from pathlib import Path
 
@@ -151,11 +150,11 @@ def update_information_from_files(Directories):
         File.the_big_sweeper()
 
 
-def find_callback_file(Directories, search_string):
+def find_callback_file(Directories, search_string, OriginalFile):
     for File in Directories:
         if search_string == str(File):
             return File
-    raise Exception("No file found")
+    raise Exception("No file found: " + search_string + " from " + str(OriginalFile))
 
 
 def parse_embeds(Directories):
@@ -167,9 +166,12 @@ def parse_embeds(Directories):
 
         # List of embed sections
         extracted_sections = []
+        print(File)
+        print(File.path)
+        print(callbacks)
         for callback in callbacks:
             # Get file that we want to search for
-            embed_file = find_callback_file(Directories, callback["title"])
+            embed_file = find_callback_file(Directories, callback["title"], File)
             # Get section of the file as a list of lines
             extracted_section = embed_file.find_section_in_file(
                 callback["identifier"], callback["type"])
@@ -196,7 +198,7 @@ def parse_links(Directories):
 
         for callback in callbacks:
             # Get file that we want to search for
-            embed_file = find_callback_file(Directories, callback["title"])
+            embed_file = find_callback_file(Directories, callback["title"], File)
             # Get section of the file as a list of lines
             hyperlink_path = embed_file.path
             hyperlink_title = embed_file.title
@@ -219,7 +221,7 @@ def write_to_files(Directories, write_path):
     return
 
 
-BASE_DIR = Path("tests/vault")
+BASE_DIR = Path("vault")
 IGNORE_DIRECTORIES = find_pyignore_file(BASE_DIR)
 INI_STRINGS, INI_DIRS, INI_OPTIONS = ini_read(BASE_DIR)
 

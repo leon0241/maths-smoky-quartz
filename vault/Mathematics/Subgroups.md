@@ -23,6 +23,4 @@
 ![[Order of a Group#^34c240]]
 
 ![[Order of a finite group#^291b9b]]
-
-![[Cyclic Subgroups#^a3c4c9]] 
 %%EOF%%

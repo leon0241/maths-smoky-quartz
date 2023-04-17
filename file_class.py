@@ -78,7 +78,7 @@ class File:
             self.checkpoints["frontmatter_end"]: updated to the end line
         """
 
-        if (self.contents[0][:3] == "\'\'\'"):
+        if len(self.contents) >= 3 and (self.contents[0][:3] == "\'\'\'"):
             self.contains_frontmatter = True
 
             # get index of frontmatter end clause
@@ -328,7 +328,8 @@ class File:
                 if clean_header == reference:
                     return self.get_section_contents(header)
             else:
-                raise Exception("No header was found")
+                # print("No header was found in " + self.title)
+                raise Exception("No header was found in " + self.title)
         
         # get page embed 
         elif type == "page":

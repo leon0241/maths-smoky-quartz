@@ -7,4 +7,3 @@
 ![[Elements of a group#^699943]]
 
 #### [[Examples of a group]]
-%%EOF%%

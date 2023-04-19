@@ -2,6 +2,7 @@
 
 > [!Definition]+ Def: [[Order of a Group]]
 > A *finite group* $G$ is one with only a finite number of elements. The *order* of a finite group, written $\lvert G \rvert$, is the number of elements in $G$. (Note that if $X$ is a set, we also often write $\lvert X \rvert$ to be the number of elements in $X$.)
+>  If $G$ is infinite we say that $\lvert G \rvert = \infty$, or the order of $G$ is infinite.
 
 ^9b31d6
 

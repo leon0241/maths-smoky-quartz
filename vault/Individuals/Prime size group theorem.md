@@ -1,7 +1,7 @@
 **Tags:** #Theorem #Algebra/Groups #Course/FPM 
 
 > [!Theorem]+ Thm: [[Prime size group theorem]]
-> Suppose that $G$ is a group with $\lvert G \rvert=p$, where $p$ is prime. Then $G$ is a [[Cyclic Subgroups|cyclic group]]
+> Suppose that $G$ is a group with $\lvert G \rvert=p$, where $p$ is prime. Then $G$ is a [[Cyclic Subgroups#^3c3b74|cyclic group]]
 
 ^19c56f
 

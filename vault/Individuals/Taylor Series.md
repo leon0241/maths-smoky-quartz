@@ -10,6 +10,10 @@
 > (taylor series of $f$ with center $x_{0}$)
 > With $x$ still fixed, write
 > $$\sum_{k=0}^{N} \frac{f^{(k)}(x_{0})}{k!}(x-x_{0})^{k}=f(x)-R_{N}(x)$$
+> If $R_{N}(x)\to 0$ as $N\to +\infty$, then
+> $$\sum_{k=0}^{N} \frac{f^{(k)}(x_{0})}{k!}(x-x_{0})^{k}\to f(x) \text{ as } N\to +\infty$$
+> Therefore,
+> $$\sum_{k=0}^{\infty} \frac{f^{(k)}(x_{0})}{k!}(x-x_{0})^{k} = f(x)$$
 
 ^0255ee
 

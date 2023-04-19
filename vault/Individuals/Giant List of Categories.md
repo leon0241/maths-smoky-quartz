@@ -12,4 +12,8 @@
 
 ![[Definition of a Monoid#^57cfb9]]
 
+<<<<<<< HEAD
+#### [[Monoids|More on Monoids]]
+=======
 #### [[Monoids and Category Isomorphisms|More on Monoids]]
+>>>>>>> 22f07aee663aa66bfd0c17912a9d05a37eac81b5

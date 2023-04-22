@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Cyclic Subgroups.md",
+                "file": "Individuals/Equivalence Relation.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0fc59b0d6f39078e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Cyclic Subgroups.md",
+                "file": "Individuals/Equivalence Relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Cyclic Subgroups.md",
+                "file": "Individuals/Equivalence Relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Cyclic Subgroups.md"
+                "file": "Individuals/Equivalence Relation.md"
               }
             }
           },
@@ -141,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,10 +158,13 @@
   },
   "active": "1209afd8c705a999",
   "lastOpenFiles": [
-    "Individuals/Prime size group theorem.md",
+    "Mathematics/Coset.md",
+    "Individuals/Relation.md",
     "Mathematics/Cyclic Subgroups.md",
     "Individuals/Consequences of Cyclic groups.md",
+    "Individuals/Prime size group theorem.md",
     "Individuals/Coprime Cyclic Theorem.md",
+    "Individuals/Definition of the power subset.md",
     "Individuals/Cyclic Isomorphism Theorem.md",
     "Individuals/Properties of Isomorphisms.md",
     "Individuals/Cyclic Subgroups.md",
@@ -179,9 +184,6 @@
     "Mathematics/Symmetries.md",
     "Mathematics/Test.md",
     "Individuals/P-series test.md",
-    "Mathematics/Infinite Series.md",
-    "Mathematics/Differentiation Theorem Ladder.md",
-    "private/cnu-thing.md",
     "Images/Pasted image 20230419174642.png",
     "Images/Pasted image 20230419174400.png",
     "config.ini",

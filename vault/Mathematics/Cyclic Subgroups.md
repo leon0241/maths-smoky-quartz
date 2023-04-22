@@ -7,7 +7,7 @@
 ^3c3b74
 
 ![[Definition of the power subset#^b27ec4]]
-a
+
 #### [[Consequences of Cyclic groups]]
 
 ![[Coprime Cyclic Theorem#^7d6267]]

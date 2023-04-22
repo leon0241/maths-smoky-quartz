@@ -11,9 +11,58 @@
             "id": "82d40c7939808811",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "private/Test.md",
+                "mode": "source",
+                "source": false
+              }
             }
+          },
+          {
+            "id": "b6cd783a99a8a340",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/cnu task 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18e79d2049822dc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/cnu task 3.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "e6541114dbf47008"
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a1d490442ce1fb6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a7d10679b25b02d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/cnu task 3.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "e6541114dbf47008"
           }
         ]
       }
@@ -81,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "private/cnu task 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "private/cnu task 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "private/cnu task 3.md"
+              }
             }
           },
           {
@@ -129,7 +182,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,15 +201,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "82d40c7939808811",
+  "active": "18e79d2049822dc9",
   "lastOpenFiles": [
+    "private/cnu task 2.md",
+    "private/cnu task 3.md",
+    "private/Test.md",
+    "private/test2.md",
+    "Mathematics/Defining the Real Numbers.md",
+    "private/iads pseudocode.md",
     "Individuals/Invertible Matrix Group.md",
     "Individuals/Factor of element orders theorem.md",
     "Individuals/Consequences of Lagrange.md",
-    "private/Test.md",
     "private/Symmetries.md",
     "private/private-note.md",
-    "private/iads pseudocode.md",
     "private/cnu-thing.md",
     "private",
     "old_index.txt",
@@ -173,10 +231,6 @@
     "templates/Def.md",
     "Mathematics/Symmetries and Graphs.md",
     "Mathematics/Rings 1.md",
-    "Mathematics/Monoids and Category Isomorphisms.md",
-    "Mathematics/Lagrange's Theorem.md",
-    "Mathematics/Group Actions.md",
-    "Mathematics/Going between Groups.md",
     "Images/Pasted image 20230412114037.png",
     "Images/Pasted image 20230412113025.png",
     "Images/Pasted image 20230412103907.png",

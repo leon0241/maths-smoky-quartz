@@ -4,7 +4,6 @@
 
 ![[Abelian Group#^87fcbf]]
 
-![[Elements of a group#^699943]]
+![[Order of a Group#^9b31d6]]
 
 #### [[Examples of a group]]
-%%EOF%%

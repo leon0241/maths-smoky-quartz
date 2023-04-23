@@ -8,61 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82d40c7939808811",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6cd783a99a8a340",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/cnu task 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "18e79d2049822dc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/cnu task 3.md",
+                "file": "Mathematics/Group Actions.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "e6541114dbf47008"
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "a1d490442ce1fb6a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3a7d10679b25b02d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/cnu task 3.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "e6541114dbf47008"
+            }
           }
         ]
       }
@@ -130,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/cnu task 3.md",
+                "file": "Mathematics/Group Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/cnu task 3.md",
+                "file": "Mathematics/Group Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/cnu task 3.md"
+                "file": "Mathematics/Group Actions.md"
               }
             }
           },
@@ -203,34 +158,34 @@
   },
   "active": "18e79d2049822dc9",
   "lastOpenFiles": [
-    "private/cnu task 2.md",
+    "Individuals/Stabilizer of a Set.md",
+    "Mathematics/Group Actions.md",
+    "Individuals/Orbit of a set.md",
+    "Individuals/Definition of a Group Action.md",
+    "Mathematics/Going between Groups.md",
+    "Individuals/Image and Kernel of a group.md",
+    "Individuals/Consequences of Group homomorphisms.md",
+    "Individuals/Consequences of Lagrange.md",
+    "Individuals/Isomorphism.md",
+    "Individuals/Homomorphism.md",
+    "Individuals/Group size Abelian Theorem.md",
+    "Individuals/Prime size group theorem.md",
+    "Mathematics/Lagrange's Theorem.md",
+    "Mathematics/Coset.md",
     "private/cnu task 3.md",
+    "private/cnu task 2.md",
     "private/Test.md",
     "private/test2.md",
     "Mathematics/Defining the Real Numbers.md",
     "private/iads pseudocode.md",
     "Individuals/Invertible Matrix Group.md",
     "Individuals/Factor of element orders theorem.md",
-    "Individuals/Consequences of Lagrange.md",
     "private/Symmetries.md",
     "private/private-note.md",
     "private/cnu-thing.md",
     "private",
     "old_index.txt",
     "_index.md",
-    "templates/bThm.md",
-    "templates/bRem.md",
-    "templates/bQu.md",
-    "templates/bNot.md",
-    "templates/bLem.md",
-    "templates/bEx.md",
-    "templates/bDef.md",
-    "templates/Thm.md",
-    "templates/Rem.md",
-    "templates/Not.md",
-    "templates/Def.md",
-    "Mathematics/Symmetries and Graphs.md",
-    "Mathematics/Rings 1.md",
     "Images/Pasted image 20230412114037.png",
     "Images/Pasted image 20230412113025.png",
     "Images/Pasted image 20230412103907.png",

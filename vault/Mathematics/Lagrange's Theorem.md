@@ -12,6 +12,6 @@
 
 ![[Consequences of Coset partitions#^e57a1f]]
 
-###### [[Applications of Lagrange]]
+###### [[Consequences of Lagrange]]
 
 %%EOF%%

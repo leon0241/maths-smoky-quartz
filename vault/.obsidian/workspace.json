@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Group Actions.md",
+                "file": "Mathematics/Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Group Actions.md",
+                "file": "Mathematics/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Group Actions.md",
+                "file": "Mathematics/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Group Actions.md"
+                "file": "Mathematics/Test.md"
               }
             }
           },
@@ -158,11 +158,11 @@
   },
   "active": "18e79d2049822dc9",
   "lastOpenFiles": [
-    "Individuals/Stabilizer of a Set.md",
+    "Mathematics/Going between Groups.md",
     "Mathematics/Group Actions.md",
+    "Individuals/Stabilizer of a Set.md",
     "Individuals/Orbit of a set.md",
     "Individuals/Definition of a Group Action.md",
-    "Mathematics/Going between Groups.md",
     "Individuals/Image and Kernel of a group.md",
     "Individuals/Consequences of Group homomorphisms.md",
     "Individuals/Consequences of Lagrange.md",

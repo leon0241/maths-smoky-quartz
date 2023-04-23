@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Differentiation Theorem Ladder.md",
+                "file": "Individuals/Taylor Series.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Analysis/Proofs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0fc59b0d6f39078e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Differentiation Theorem Ladder.md",
+                "file": "Individuals/Taylor Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Differentiation Theorem Ladder.md",
+                "file": "Individuals/Taylor Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Differentiation Theorem Ladder.md"
+                "file": "Individuals/Taylor Series.md"
               }
             }
           },
@@ -155,34 +156,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9e45389eadce374",
+  "active": "1209afd8c705a999",
   "lastOpenFiles": [
-    "private/test2.md",
-    "private/cnu task 3.md",
-    "private/cnu task 2.md",
-    "private/Test.md",
-    "Individuals/Equivalence Relation.md",
-    "Mathematics/Coset.md",
-    "Individuals/Relation.md",
-    "Mathematics/Cyclic Subgroups.md",
-    "Individuals/Consequences of Cyclic groups.md",
-    "Individuals/Prime size group theorem.md",
-    "Individuals/Coprime Cyclic Theorem.md",
-    "Individuals/Definition of the power subset.md",
-    "Individuals/Cyclic Isomorphism Theorem.md",
-    "Individuals/Properties of Isomorphisms.md",
-    "Individuals/Cyclic Subgroups.md",
-    "Individuals/Examples of a cyclic subgroup.md",
-    "Mathematics/Subgroups.md",
-    "Individuals/Order of a finite group.md",
-    "Individuals/Order of a Group.md",
-    "Individuals/Test for a subgroup.md",
-    "Mathematics/Groups.md",
-    "Individuals/Elements of a group.md",
-    "private/private-note.md",
-    "Individuals/Abelian Group.md",
-    "Individuals/Definition of a Group.md",
-    "Mathematics/Symmetries and Graphs.md",
+    "Mathematics/Differentiation Theorem Ladder.md",
+    "Individuals/Taylor's Formula with remainder.md",
+    "Individuals/Generalised Mean Value Theorem.md",
+    "Individuals/Mean Value Theorem.md",
+    "Individuals/Rolle's Theorem.md",
+    "Individuals/Differentiation Rules.md",
+    "Mathematics/Differentiation.md",
+    "Individuals/Differentiable Intervals.md",
+    "Individuals/Differentiation and Continuity.md",
+    "Individuals/Tangent to a graph.md",
+    "Individuals/Epsilon Delta Function Limits.md",
+    "Mathematics/Continuity and Functional Limits.md",
+    "Individuals/Showing a function is continuous.md",
+    "Individuals/Continuity.md",
+    "Individuals/Monotone Sequences.md",
+    "Mathematics/Infinite Series.md",
+    "Mathematics/Proving a Series is Convergent.md",
+    "Individuals/Geometric Series Test.md",
+    "Individuals/Monotone Convergence Theorem.md",
+    "Individuals/Integral Test.md",
+    "Individuals/Alternating Series Test.md",
+    "Individuals/Cauchy's Condensation Test.md",
+    "Individuals/Ratio Test.md",
+    "Individuals/Root Test.md",
+    "Individuals/Limit Comparison Test.md",
+    "Individuals/Comparison Test.md",
     "Images/Pasted image 20230419174642.png",
     "Images/Pasted image 20230419174400.png",
     "config.ini",

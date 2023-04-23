@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individuals/Equivalence Relation.md",
+                "file": "Mathematics/Differentiation Theorem Ladder.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0fc59b0d6f39078e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individuals/Equivalence Relation.md",
+                "file": "Mathematics/Differentiation Theorem Ladder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Individuals/Equivalence Relation.md",
+                "file": "Mathematics/Differentiation Theorem Ladder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Individuals/Equivalence Relation.md"
+                "file": "Mathematics/Differentiation Theorem Ladder.md"
               }
             }
           },
@@ -158,6 +157,7 @@
   },
   "active": "1209afd8c705a999",
   "lastOpenFiles": [
+    "Individuals/Equivalence Relation.md",
     "Mathematics/Coset.md",
     "Individuals/Relation.md",
     "Mathematics/Cyclic Subgroups.md",
@@ -183,7 +183,6 @@
     "Individuals/Isomorphism.md",
     "Mathematics/Symmetries.md",
     "Mathematics/Test.md",
-    "Individuals/P-series test.md",
     "Images/Pasted image 20230419174642.png",
     "Images/Pasted image 20230419174400.png",
     "config.ini",

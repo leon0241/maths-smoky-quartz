@@ -37,7 +37,7 @@ g\cdot(h\cdot x) &= g\cdot (h*x*h^{-1})=g*(h*x*h^{-1})*g^{-1} \\
 &=(g*h)*x*(g*h)^{-1}=(g*h)\cdot x
 \end{align}
 > $$
-> Therefore $g\cdot x=g*x*g^{-1}$ is an action of $G on itself.
+> Therefore $g\cdot x=g*x*g^{-1}$ is an action of $G$ on itself.
 > **Orbit:** The orbit of an element $x \in X = G$ is 
 > $$\text{Orb}(x)=\{g\cdot x\,|\, g\in G\}=\{gxg^{-1}\,|\,g\in G\}$$
 > This set is known as the *conjugacy class* of $x$.
@@ -48,4 +48,3 @@ g\cdot(h\cdot x) &= g\cdot (h*x*h^{-1})=g*(h*x*h^{-1})*g^{-1} \\
 \end{align}
 > $$
 > This is known as the *centralizer* of $x$. It is a subgroup of $G$.
-

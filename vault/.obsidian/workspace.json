@@ -4,67 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "5d0ace621ef7d018",
-        "type": "tabs",
+        "id": "ddcc03f591d30d52",
+        "type": "split",
         "children": [
           {
-            "id": "82d40c7939808811",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/Test.md",
-                "mode": "source",
-                "source": false
+            "id": "5d0ace621ef7d018",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "82d40c7939808811",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Individuals/Examples of an Epsilon N Proof.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "9f3a84d38badfa1a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "private/test3.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "9e3984ed82e96cee"
+              },
+              {
+                "id": "61d92aa67d13c749",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.1.16"
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "b6cd783a99a8a340",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/cnu task 2.md",
-                "mode": "source",
-                "source": false
+            "id": "d011a65b1cda3207",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "41a85a64ad06cabe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "private/test3.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                },
+                "group": "9e3984ed82e96cee"
               }
-            }
-          },
-          {
-            "id": "18e79d2049822dc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/cnu task 3.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "e6541114dbf47008"
+            ]
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "a1d490442ce1fb6a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3a7d10679b25b02d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/cnu task 3.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "e6541114dbf47008"
-          }
-        ]
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -114,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0fc59b0d6f39078e",
@@ -130,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/cnu task 3.md",
+                "file": "private/test3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/cnu task 3.md",
+                "file": "private/test3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/cnu task 3.md"
+                "file": "private/test3.md"
               }
             }
           },
@@ -201,11 +207,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "18e79d2049822dc9",
+  "active": "9f3a84d38badfa1a",
   "lastOpenFiles": [
-    "private/cnu task 2.md",
-    "private/cnu task 3.md",
+    "Individuals/Examples of an Epsilon N Proof.md",
+    "private/test3.md",
+    "Individuals/Examples of a group action.md",
+    "Individuals/Examples of a subgroup.md",
+    "Individuals/Examples of an Epsilon Delta Proof.md",
+    "Mathematics/Coset.md",
+    "Individuals/Examples of a group.md",
+    "Individuals/Examples of a cyclic subgroup.md",
+    "Mathematics/Proving a Series is Convergent.md",
     "private/Test.md",
+    "private/cnu task 2.md",
+    "Mathematics/Lagrange's Theorem.md",
+    "Individuals/Definition of a Coset.md",
+    "Mathematics/Cyclic Subgroups.md",
+    "private/cnu task 3.md",
     "private/test2.md",
     "Mathematics/Defining the Real Numbers.md",
     "private/iads pseudocode.md",
@@ -219,18 +237,6 @@
     "old_index.txt",
     "_index.md",
     "templates/bThm.md",
-    "templates/bRem.md",
-    "templates/bQu.md",
-    "templates/bNot.md",
-    "templates/bLem.md",
-    "templates/bEx.md",
-    "templates/bDef.md",
-    "templates/Thm.md",
-    "templates/Rem.md",
-    "templates/Not.md",
-    "templates/Def.md",
-    "Mathematics/Symmetries and Graphs.md",
-    "Mathematics/Rings 1.md",
     "Images/Pasted image 20230412114037.png",
     "Images/Pasted image 20230412113025.png",
     "Images/Pasted image 20230412103907.png",
